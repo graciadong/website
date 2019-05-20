@@ -15,7 +15,7 @@ font = "default"
 description = ""
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "profile"
+sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = ""
@@ -52,7 +52,7 @@ time_format = "15:04"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "chi-kuang.yeh@uwaterloo.ca"
 phone = ""
-address = "4122, M3, University of Waterloo, 200W University Ave, Ontario, Canada"
+address = "4122, M3, University of Waterloo, 200 University W. Ave, Ontario, Canada"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Tuesday 9:00 to 10:00 <br>
