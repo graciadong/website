@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include functional data analysis, longitudinal data analysis, time series data analysis and optimal design of experiment
 education:
   courses:
   - course: PhD in Statistics
@@ -27,13 +26,10 @@ role: PhD student in Statistics
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'chi-kuang.yeh@uwaterloo.ca'
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: chi-kuang.yeh@uwaterloo.ca
 - icon: researchgate
   icon_pack: fab
-  link: http://https://www.researchgate.net/profile/Chi_Kuang_Yeh
+  link: http://www.researchgate.net/profile/Chi_Kuang_Yeh
 - icon: github
   icon_pack: fab
   link: https://github.com/chikuang
@@ -43,6 +39,6 @@ user_groups:
 - Visitors
 ---
 
-I am first year PhD student at the University of Waterloo under joint supervision of Prof. Greg Rice and Joel Dubin. My current research is in Functional Data Analysis, particularly in Functional Time Series Analysis.
+I am first year PhD student at the [University of Waterloo](https://uwaterloo.ca) under joint supervision of Prof. [Greg Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice) and Prof. [Joel Dubin](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/joel-dubin). My current research is in Functional Data Analysis, particularly in Functional Time Series Analysis.
 
-Previously, I obtained MSc and BSc degrees at the University of Victoria in a beautiful city, Victoria, British Columbia, Canada.
+Previously, I obtained MSc and BSc degrees at the [University of Victoria](https://www.uvic.ca/) in a beautiful city, [Victoria](https://www.victoria.ca/), British Columbia, Canada.
