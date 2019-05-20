@@ -24,9 +24,6 @@ organizations:
   url: "https://uwaterloo.ca"
 role: PhD student in Statistics
 social:
-- icon: envelope
-  icon_pack: fas
-  link: chi-kuang.yeh@uwaterloo.ca
 - icon: researchgate
   icon_pack: fab
   link: http://www.researchgate.net/profile/Chi_Kuang_Yeh
