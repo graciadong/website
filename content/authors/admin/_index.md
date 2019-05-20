@@ -14,7 +14,7 @@ education:
   - course: BSc (Hons.) in Combined Mathematics and Statistics
     institution: University of Victoria
     year: 2013 -- 2016
-email: ""
+email: "chi-kuang.yeh@uwaterloo.ca"
 interests:
 - Functional/Longitudinal Data Analysis
 - Optimal Design of Experiments
@@ -27,16 +27,16 @@ role: PhD student in Statistics
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'chi-kuang.yeh@uwaterloo.ca'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: researchgate
+  icon_pack: fab
+  link: http://https://www.researchgate.net/profile/Chi_Kuang_Yeh
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/chikuang
 superuser: true
 user_groups:
 - Researchers
