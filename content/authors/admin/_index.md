@@ -5,25 +5,25 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Statistics
+    institution: University of Waterloo
+    year: 2018 -- Onward
+  - course: MSc in Statistics
+    institution: University of Victoria
+    year: 2016 -- 2018
+  - course: BSc (Hons.) in Combined Mathematics and Statistics
+    institution: University of Victoria
+    year: 2013 -- 2016
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Functional/Longitudinal Data Analysis
+- Optimal Design of Experiments
+- Time Series Analysis
+name: Chi-Kuang Yeh
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: University of Waterloo
+  url: "https://uwaterloo.ca"
+role: PhD student in Statistics
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,6 +43,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am first year PhD student at the University of Waterloo under joint supervision of Prof. Greg Rice and Joel Dubin. My current research is in Functional Data Analysis, particularly in Functional Time Series Analysis.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Previously, I obtained MSc and BSc degrees at the University of Victoria in a beautiful city, Victoria, British Columbia, Canada.
