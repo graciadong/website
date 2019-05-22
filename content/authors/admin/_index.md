@@ -15,8 +15,9 @@ education:
     year: 2013 -- 2016
 email: "chi-kuang.yeh@uwaterloo.ca"
 interests:
-- Functional/Longitudinal Data Analysis
-- Optimal Design of Experiments
+- Functional Data Analysis
+- Longitudinal Data Analysis
+- Optimal Design of Experiment
 - Time Series Analysis
 name: Chi-Kuang Yeh
 organizations:
