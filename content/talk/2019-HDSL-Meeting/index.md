@@ -1,30 +1,30 @@
 +++
-title = "Masters Thesis Defense"
+title = "HDSL Meeting"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2018-07-13T13:00:00Z
-date_end = 2018-07-13T14:30:00Z
+date = 2019-02-27T15:00:00
+date_end = 2019-02-27T16:00:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2019-05-21T20:32:32-04:00
+publishDate = 2019-02-27T16:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Chi-Kuang Yeh"]
 
 # Location of event.
-location = "B346, CLE, University of Victoria, BC, Canada"
+location = "M3 4001, University of Waterloo, ON, Canada"
 
 # Name of event and optional event URL.
 event = ""
-event_url = "https://www.uvic.ca/graduatestudies/assets/docs/oral-announcements/YEH_oral%20announcement.pdf"
+event_url = ""
 
 # Abstract. What's your talk about?
-abstract = "In this thesis, we first review the current development of optimal regression designs under the second-order least squares estimator in the literature. The criteria include A- and D-optimality. We then introduce a new formulation of A-optimality criterion so the result can be extended to c-optimality which has not been studied before. Following Kiefer's equivalence results, we derive the optimality conditions for A-, c- and D-optimal designs under the second-order least squares estimator. In addition, we study the number of support points for various regression models including Peleg models, trigonometric models, regular and fractional polynomial models. A generalized scale invariance property for D-optimal designs is also explored. Furthermore, we discuss one computing algorithm to find optimal designs numerically. Several interesting applications are presented and related MATLAB code are provided in the thesis."
+abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "My Masters Defense at the University of Victoria"
+summary = "To discuss some details of prior research studies using the eICU patient database."
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -42,7 +42,7 @@ tags = []
 slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = "msc_defense_slide.pdf"
+url_slides = "2019W-HDSL-meeting.pdf"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -53,7 +53,7 @@ url_slides = "msc_defense_slide.pdf"
 projects = []
 
 # Links (optional).
-url_pdf = "https://dspace.library.uvic.ca/bitstream/handle/1828/9765/Yeh_Chi-Kuang_MSc_2018.pdf?sequence=1&isAllowed=y"
+url_pdf = ""
 url_video = ""
 url_code = ""
 
