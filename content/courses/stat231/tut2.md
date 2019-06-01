@@ -1,14 +1,15 @@
 ---
-date: "2019-05-05T00:00:00+01:00"
-draft: false
+title: Tutorial 2
 linktitle: Tut2
+toc: true
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+lastmod: "2019-05-31T00:00:00Z"
+draft: false
 menu:
   stat231:
     parent: Tutorial
     weight: 2
-title: Tutorial 2
-toc: true
-type: docs
 weight: 2
 ---
 
@@ -72,7 +73,7 @@ Median: Yes, more robust than mean.
 
 # Q2
 
-The soltuion can be found [here](../tut2_Q2.pdf).
+The soltuion can be found [here](../supp/tut2_Q2.pdf).
 
 # Q3
 
@@ -84,7 +85,7 @@ Symmetric. Mean = Median = 4.
 
 # Q4
 
-The solution can be found [here](../tut2_Q4.pdf).
+The solution can be found [here](../supp/tut2_Q4.pdf).
 
 # Q5
 

@@ -3,7 +3,8 @@ title: Tutorial 1
 linktitle: Tut1
 toc: true
 type: docs
-date: "2019-05-05T00:00:00Z"
+date: "2019-05-24T00:00:00Z"
+#lastmod: "2019-05-31T00:00:00Z"
 draft: false
 menu:
   stat231:
@@ -16,9 +17,9 @@ weight: 1
 
 In this tutorial, we are going to go over the tutorial sheet, which contains 2 questions.
 
-The question can be found here [HTML](../tut1_Q.pdf).
+The question can be found [here](../supp/tut1_Q.pdf).
 
-The answer can be found [here](../tut1_Ans.pdf).
+The answer can be found [here](../supp/tut1_Ans.pdf).
 
-For some extra stuff I went over during the tutorial, they can be found [here](../231tut1_Supp.pdf)
+For some extra stuff I went over during this tutorial, they can be found [here](../supp/tut1_Supp.pdf).
 

@@ -6,8 +6,8 @@ weight: 1
 
 # Page metadata.
 title: Overview
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
+date: "2019-05-31T00:00:00Z"
+lastmod: "2019-05-31T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -21,6 +21,6 @@ menu:
     weight: 1
 ---
 
-This site is for Chi-Kuang's personal use for University of Waterloo's **Statistics 231** course, Spring 2019. I will put some stuff I taught during the tutorial. 
+This site is for Chi-Kuang's personal use for University of Waterloo's **Statistics 231** course, Spring 2019. I will put some stuff I taught during the tutorial here. 
 
 ***Note***: I'll try my best not to, but I might make some mistakes, so use at your own risk!!!
