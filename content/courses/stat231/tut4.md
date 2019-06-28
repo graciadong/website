@@ -27,7 +27,7 @@ Note: This time, there is only one problem.
 
 * b. **Confidence interval** for $\mu$.
 
-  1. $Z/G$ if $\sigma / \sigma^2$ is unknown. 
+  1. $Z/G$ if $\sigma / \sigma^2$ is known. 
       $$\bar{y}\pm z\_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}$$
   2. $t$ if $\sigma / \sigma^2$ is unknown.
       $$\bar{y}\pm t_{1-\frac{\alpha}{2}, ~df} \frac{s}{\sqrt{n}}$$
