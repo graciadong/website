@@ -15,15 +15,15 @@ weight: 4
 
 This week (Friday, June 28), I will be teaching two tutorial sections this week (11:30 -- 12:20 & 14:30 -- 15:20)
 
-In this tutorial, we'll go over the [problem](../supp/tut4_Q.pdf). The answer can be found [here](../supp/tut4_sol.pdf)
+In this tutorial, we'll go over the [problem](../supp/tut4_Q.pdf). The supplementary can be found [here](../supp/tut4_supp.pdf).
 
 * * * 
 
 Note: This time, there is only one problem.
 
-* a. QQ plot for checking Gaussian assumption (p. 80).
+* a. [Yes] QQ plot for checking Gaussian assumption (p. 80).
 
-"A qqplot is a graph for which the expected plot would reasoonably be astraight line plot if the Gaussian model is a good fit."
+"A qqplot is a graph for which the expected plot would reasoonably be astraight line plot if the Gaussian model is a good fit." Hence the assumption is reasonable.
 
 * b. **Confidence interval** for $\mu$.
 
