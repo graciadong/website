@@ -48,6 +48,6 @@ user_groups:
 
 I am a first year PhD student at the [University of Waterloo](https://uwaterloo.ca) under joint supervision of Prof. [Greg Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice) and Prof. [Joel Dubin](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/joel-dubin). I am also affiliated with [Health Data Science Lab (HDSL)](https://uwaterloo.ca/health-data-science-lab/). My other personal website hosted by UWaterloo server can be found [here](https://uwaterloo.ca/scholar/c26yeh/home).
 
-My current research focus is on Functional Data Analysis, particularly in Functional Time Series Analysis. Previously, I worked on optimal design of experiment problems during my Masters program.
-
 Before arriving to UWaterloo, I obtained MSc and BSc degrees at the [University of Victoria](https://www.uvic.ca/) in a beautiful city, [Victoria](https://www.victoria.ca/), British Columbia, Canada.
+
+In my spare time, I like to play basketball, and reading books, articles and random posts in various different genre.
