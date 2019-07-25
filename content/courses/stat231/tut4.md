@@ -13,7 +13,7 @@ menu:
 weight: 4
 ---
 
-This week (Friday, June 28), I will be teaching two tutorial sections this week (11:30 -- 12:20 & 14:30 -- 15:20)
+This week (Friday, June 28), I will be teaching two tutorial sections (11:30 -- 12:20 & 14:30 -- 15:20)
 
 In this tutorial, we'll go over the [problem](../supp/tut4_Q.pdf). The supplementary can be found [here](../supp/tut4_supp.pdf).
 
