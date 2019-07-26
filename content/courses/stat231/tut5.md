@@ -15,7 +15,7 @@ weight: 5
   
 This week (Friday, July-25-2019), I will be teaching tutorial sections (12:30 -- 13:20 in DC 1351)
 
-In this tutorial, we'll go over [Quiz 3, Version A](../supp/tut5_Q.pdf) which students wrote last week.
+In this tutorial, we'll go over [Quiz 3, Version A](../supp/tut5_Q.pdf) which students wrote last week. What I wrote during the tutorial can be found [Here](../supp/tut5_supp.pdf). Note it most likely will be removed shortly, so please download sonner or later...
 
 * * * 
 
