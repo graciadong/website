@@ -55,8 +55,7 @@ phone = "+1-519-888-4567 x31523"
 address = "4122, M3, University of Waterloo, 200 University W. Ave, Ontario, Canada"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Stat 231 -- Tuesday 9:00 to 10:00<br>
-                  Stat 443 -- Friday 9:00 to 11:00"""
+office_hours = """Statistical Consulting and Collaborative Research Unit -- TBA"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
