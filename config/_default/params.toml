@@ -52,10 +52,10 @@ time_format = "15:04"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "chi-kuang.yeh@uwaterloo.ca"
 phone = "+1-519-888-4567 x31523"
-address = "4122, M3, University of Waterloo, 200 University W. Ave, Ontario, Canada"
+address = "4122, Mathematics 3, University of Waterloo"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Statistical Consulting and Collaborative Research Unit -- TBA"""
+office_hours = """SCCRU-- Thursday 13:00 to 16:00 @ M3-2106"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
