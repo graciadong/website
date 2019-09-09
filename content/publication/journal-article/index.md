@@ -5,7 +5,7 @@ authors:
 - Julie Zhou
 #- Robert Ford
 date: "2019-01-08T00:00:00Z"
-doi: "https://doi.org/10.1007/s00362-018-01076-6"
+doi: "10.1007/s00362-018-01076-6"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
