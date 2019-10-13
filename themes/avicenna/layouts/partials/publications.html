@@ -12,7 +12,7 @@
 			<a href="{{ $publication.link }}" class="publications"> {{ $publication.name }}, </a>
 			{{ else }}
 			<p class="publications"> {{ $publication.name }}, </p>
-			{{ end }}
+			{{ end }} <br>
 			{{ $publication.dest | markdownify }}.
 
 			{{ if or ($publication.code_link) $publication.blog_link }}
