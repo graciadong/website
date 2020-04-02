@@ -9,7 +9,7 @@ timeout = 3000
 [params]
   subtitle= "PhD Candidate"
   interests="Panel Data, Functional Data Analysis, Time Series & Experimental Design"
-  cv_name= "Chi-Kuang_CV_Oct_2019.pdf"
+  cv_name= "Chi-Kuang_CV_APR_20.pdf"
   blog="https://uwaterloo.ca/scholar/c26yeh/home"
 
 [[params.affilation]]
@@ -39,18 +39,19 @@ timeout = 3000
 
 
 [[params.introduction.paragraph]]
-  text="""Hi! I am a second year PhD at the [University of Waterloo](https://uwaterloo.ca) 
-  under joint supervision of Prof. [Greg Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice) 
+  text="""Hello, thanks for stepping by! :) I am a PhD student at the [University of Waterloo](https://uwaterloo.ca) 
+  under the joint supervision of Prof. [Greg Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice) 
   and Prof. [Joel Dubin](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/joel-dubin). 
-  I also work for Prof. [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy) 
-  at [Statistical Consulting and Collaborative Research Unit (SCCRU)](https://uwaterloo.ca/statistical-consulting-and-collaborative-research-unit/). 
+  Currently, I also work with Prof. [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy) 
+  and Dr. [Joslin Goh](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/jtcgoh)
+  at the [Statistical Consulting and Collaborative Research Unit (SCCRU)](https://uwaterloo.ca/statistical-consulting-and-collaborative-research-unit/). 
   My other personal website hosted by UWaterloo server can be found 
   [here](https://uwaterloo.ca/scholar/c26yeh/home)."""
   
 [[params.introduction.paragraph]]
   text=""" Before coming to Waterloo, I obtained MSc and BSc degrees at the 
   [University of Victoria](https://www.uvic.ca/), 
-  supervised by Prof. [Julie Zhou](https://www.uvic.ca/science/math-statistics/people/home/faculty/zhou_julie.php) 
+  both were supervised by Prof. [Julie Zhou](https://www.uvic.ca/science/math-statistics/people/home/faculty/zhou_julie.php) 
   in a beautiful city, [Victoria](https://www.victoria.ca/), British Columbia, Canada.
   """
   
@@ -61,18 +62,27 @@ timeout = 3000
   
 [[params.projects]]
 	[[params.projects.project]]
-		name = "Bayesian Jolly-Saber-Model"
-		description  = """I am currently working with Dr. [Laura Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) 
-		on investigating the new properties on Jolly-Seber model with tag loss in the Bayesian framework."""
+		name = "Bayesian capture-recapture with tag-failure"
+		description  = """This is an ongoing joint work with Dr. [Laura Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) 
+		on investigating the under-estimated survival rate with the objects that may potentially lost tracked under the bayesian paradigm."""
 		project_page = ""
 		code_link = ""
 		blog_link = ""
 
+#[[params.projects]]
+#	[[params.projects.project]]
+#		name = "Bayesian capture-recapture with tag-failure"
+#		description  = """This is an ongoing joint work with Dr. [Laura Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) 
+#		on investigating the under-estimated survival rate with the objects that may potentially lost tracked under the bayesian paradigm."""
+#		project_page = ""
+#		code_link = ""
+#		blog_link = ""
+		
 # [[params.projects.project]]
-#		name = "In nisl nisi scelerisque eu ultrices vitae auctor"
+#		name = "Backtesting in real-time probabilistic forecasts"
 #		description  = ""
-#		project_page = "https://myprojecthomepage.com"
-#		code_link = "https://coderepo.com"
+#		project_page = "../post/chi-kuang_projects.html"
+#		code_link = ""
 #		blog_link = ""
 
 # [[params.projects.project]]
