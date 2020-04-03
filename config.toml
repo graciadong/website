@@ -17,31 +17,26 @@ timeout = 3000
   position = "PhD Candidate"
   contact = "chi-kuang.yeh@uwaterloo.ca"
 
-#[[params.affilation]]
-#  name = "MyCoolStartup"
-#  position = "Co-Founder"
-#  contact = "hadi@mycoolstartup.ai"
-
 [[params.social]]
   name = "GitHub"
   icon = "github"
   url = "https://github.com/chikuang"
-
-[[params.social]]
-  name = "Researchgate"
-  icon = "researchgate"
-  url = "https://www.researchgate.net/profile/Chi_Kuang_Yeh"
-
+  
 [[params.social]]
   name = "LinkedIn"
   icon = "linkedin"
   url = "https://www.linkedin.com/in/chi-kuang-yeh-040523110/"
 
+[[params.social]]
+  name = "Researchgate"
+  icon = "book-open"
+  url = "https://www.researchgate.net/profile/Chi_Kuang_Yeh"
+
 
 [[params.introduction.paragraph]]
   text="""Hello, thanks for stepping by! :) I am a PhD student at the [University of Waterloo](https://uwaterloo.ca) 
   under the joint supervision of Prof. [Greg Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice) 
-  and Prof. [Joel Dubin](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/joel-dubin). 
+  and Prof. [Joel Dubin](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/joel-dubin), which I am affilated with [HDSL](https://uwaterloo.ca/health-data-science-lab/).
   Currently, I also work with Prof. [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy) 
   and Dr. [Joslin Goh](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/jtcgoh)
   at the [Statistical Consulting and Collaborative Research Unit (SCCRU)](https://uwaterloo.ca/statistical-consulting-and-collaborative-research-unit/). 
@@ -56,18 +51,43 @@ timeout = 3000
   """
   
 [[params.introduction.paragraph]]
-  text="""In my spare time, I like to play basketball, and reading books, 
+  text="""In my spare time, I like to play basketball, chess and read books, 
   articles and random posts.
   """
-  
-[[params.projects]]
-	[[params.projects.project]]
-		name = "Bayesian capture-recapture with tag-failure"
-		description  = """This is an ongoing joint work with Dr. [Laura Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) 
-		on investigating the under-estimated survival rate with the objects that may potentially lost tracked under the bayesian paradigm."""
-		project_page = ""
-		code_link = ""
-		blog_link = ""
+
+[[params.publications]]
+  year = "2019"
+
+[[params.publications.paper]]
+	name = "Properties of optimal regression designs under the second-order least squares estimator"
+	authors = "**Chi-Kuang Yeh** & Julie Zhou"
+	dest  = "Statistical Papers"
+	link = "https://link.springer.com/article/10.1007%2Fs00362-018-01076-6"
+	code_link = ""
+	blog_link = ""
+[[params.publications]]
+  year = "2018"
+[[params.publications.paper]]
+	name = "Optimal regression design under second-order least squares estimator: theory, algorithm and applications"
+	authors = "**Chi-Kuang Yeh**"
+	dest  = "Master's Thesis, University of Victoria"
+	link = "https://dspace.library.uvic.ca/handle/1828/9765"
+	code_link = ""
+	blog_link = ""
+
+#[[params.projects]] 
+#	[[params.projects.project]]
+#		name = "Bayesian capture-recapture modeling with tag-failure"
+#		description  = """Ongoing joint work with Dr. [Laura Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php)"""
+#		project_page = ""
+#		code_link = ""
+#		blog_link = ""
+#	[[params.projects.project]]
+#	  name = "Estimation and Validation of real-time forecasting"
+#		description  = """Ongoing joint work with Dr. """
+#		project_page = ""
+#		code_link = ""
+#		blog_link = ""
 
 #[[params.projects]]
 #	[[params.projects.project]]
@@ -111,16 +131,7 @@ timeout = 3000
 #    code_link = "https://thecoderepo.com"
 #    blog_link = "https://myblogaboutit.com"
 
-[[params.publications]]
-  year = "2019"
 
-  [[params.publications.paper]]
-		name = "Properties of optimal regression designs under the second-order least squares estimator"
-		authors = "**Chi-Kuang Yeh** & Julie Zhou"
-		dest  = "Statistical Papers"
-		link = "https://link.springer.com/article/10.1007%2Fs00362-018-01076-6"
-		code_link = ""
-		blog_link = ""
 
 #  [[params.publications.paper]]
 #		name = "Venenatis urna cursus eget nunc. Nam aliquam sem et tortor consequat id porta nibh venenatis"
