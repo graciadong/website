@@ -9,12 +9,12 @@ timeout = 3000
 [params]
   subtitle= "PhD Candidate"
   interests="Panel Data, Functional Data Analysis, Time Series & Experimental Design"
-  cv_name= "Chi-Kuang_CV_APR_20.pdf"
+  cv_name= "Yeh_CV_May11_2020.pdf"
   blog="https://uwaterloo.ca/scholar/c26yeh/home"
 
 [[params.affilation]]
   name = "University of Waterloo"
-  position = "PhD Candidate"
+  position = "PhD(c) in Statistics"
   contact = "chi-kuang.yeh@uwaterloo.ca"
 
 [[params.social]]
@@ -34,10 +34,11 @@ timeout = 3000
 
 
 [[params.introduction.paragraph]]
-  text="""Hello, thanks for stepping by! :) I am a PhD student at the [University of Waterloo](https://uwaterloo.ca) 
+  text = """Hello, thanks for stopping by! :) I am a PhD student at the [University of Waterloo](https://uwaterloo.ca) 
   under the joint supervision of Prof. [Greg Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice) 
-  and Prof. [Joel Dubin](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/joel-dubin), which I am affilated with [HDSL](https://uwaterloo.ca/health-data-science-lab/).
-  Currently, I also work with Prof. [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy) 
+  and Prof. [Joel Dubin](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/joel-dubin), where I am affilated 
+  with [HDSL](https://uwaterloo.ca/health-data-science-lab/).
+  Last term, I also worked with Prof. [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy) 
   and Dr. [Joslin Goh](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/jtcgoh)
   at the [Statistical Consulting and Collaborative Research Unit (SCCRU)](https://uwaterloo.ca/statistical-consulting-and-collaborative-research-unit/). 
   My other personal website hosted by UWaterloo server can be found 
@@ -46,13 +47,12 @@ timeout = 3000
 [[params.introduction.paragraph]]
   text=""" Before coming to Waterloo, I obtained MSc and BSc degrees at the 
   [University of Victoria](https://www.uvic.ca/), 
-  both were supervised by Prof. [Julie Zhou](https://www.uvic.ca/science/math-statistics/people/home/faculty/zhou_julie.php) 
+  both were supervised by Prof. [Julie Zhou](https://www.uvic.ca/science/math-statistics/people/home/faculty/zhou_julie.php),
   in a beautiful city, [Victoria](https://www.victoria.ca/), British Columbia, Canada.
   """
   
 [[params.introduction.paragraph]]
-  text="""In my spare time, I like to play basketball, chess and read books, 
-  articles and random posts.
+  text="""In my spare time, I like to play basketball, chess and read books, articles manga and random posts.
   """
 
 [[params.publications]]
