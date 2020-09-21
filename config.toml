@@ -8,8 +8,9 @@ timeout = 3000
 
 [params]
   subtitle= "PhD Candidate"
-  interests="Panel Data, Functional Data Analysis, Time Series & Experimental Design"
-  cv_name= "Yeh_CV_May11_2020.pdf"
+  interests = """Panel Data, functional Data Analysis, longitudianl data analysis, time Series Analysis
+    & Experimental Design"""
+  cv_name= "CV_Yeh_Sep21_2020.pdf"
   blog="https://uwaterloo.ca/scholar/c26yeh/home"
 
 [[params.affilation]]
@@ -34,11 +35,10 @@ timeout = 3000
 
 
 [[params.introduction.paragraph]]
-  text = """Hello, thanks for stopping by! :) I am a PhD student at the [University of Waterloo](https://uwaterloo.ca) 
-  under the joint supervision of Prof. [Greg Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice) 
-  and Prof. [Joel Dubin](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/joel-dubin), where I am affilated 
-  with [HDSL](https://uwaterloo.ca/health-data-science-lab/).
-  Last term, I also worked with Prof. [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy) 
+  text = """Hello, thanks for stopping by! :) I am curerntly a third-year PhD student at the 
+  [University of Waterloo](https://uwaterloo.ca) working with Prof. [Greg Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice) 
+  and Prof. [Joel A. Dubin](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/joel-dubin), where I am (somehow)
+  affilated with [HDSL](https://uwaterloo.ca/health-data-science-lab/). Previously, I also worked with Prof. [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy) 
   and Dr. [Joslin Goh](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/jtcgoh)
   at the [Statistical Consulting and Collaborative Research Unit (SCCRU)](https://uwaterloo.ca/statistical-consulting-and-collaborative-research-unit/). 
   My other personal website hosted by UWaterloo server can be found 
@@ -52,19 +52,19 @@ timeout = 3000
   """
   
 [[params.introduction.paragraph]]
-  text="""In my spare time, I like to play basketball, chess and read books, articles manga and random posts.
+  text="""In my spare time, I like playing basketball, chess and readong books, articles manga and random stuff.
   """
 
 [[params.publications]]
   year = "2019"
-
 [[params.publications.paper]]
 	name = "Properties of optimal regression designs under the second-order least squares estimator"
 	authors = "**Chi-Kuang Yeh** & Julie Zhou"
 	dest  = "Statistical Papers"
 	link = "https://link.springer.com/article/10.1007%2Fs00362-018-01076-6"
-	code_link = ""
+	code_link = "https://github.com/chikuang/OptimalDesigns-SLSE"
 	blog_link = ""
+	
 [[params.publications]]
   year = "2018"
 [[params.publications.paper]]
@@ -72,38 +72,31 @@ timeout = 3000
 	authors = "**Chi-Kuang Yeh**"
 	dest  = "Master's Thesis, University of Victoria"
 	link = "https://dspace.library.uvic.ca/handle/1828/9765"
+	code_link = "https://github.com/chikuang/OptimalDesigns-SLSE"
+	blog_link = ""
+
+[[params.projects]] 
+[[params.projects.project]]
+	name = "Evaluating real-time probabilistic forecasts with application to National Basketball Association outcome prediction"
+	description  = """Ongoing joint work with my supervisors: Prof. Gregory Rice and Prof. Joel A. Dubin"""
+	project_page = ""
+	code_link = ""
+	blog_link = ""
+[[params.projects.project]]
+	name = "Dynamic correlation and predictive inference on functonal data"
+	description  = """Ongoing joint work with my supervisors: Prof. Gregory Rice and Prof. Joel A. Dubin"""
+	project_page = ""
 	code_link = ""
 	blog_link = ""
 
-#[[params.projects]] 
-#	[[params.projects.project]]
-#		name = "Bayesian capture-recapture modeling with tag-failure"
-#		description  = """Ongoing joint work with Dr. [Laura Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php)"""
-#		project_page = ""
-#		code_link = ""
-#		blog_link = ""
-#	[[params.projects.project]]
-#	  name = "Estimation and Validation of real-time forecasting"
-#		description  = """Ongoing joint work with Dr. """
-#		project_page = ""
-#		code_link = ""
-#		blog_link = ""
-
-#[[params.projects]]
-#	[[params.projects.project]]
-#		name = "Bayesian capture-recapture with tag-failure"
-#		description  = """This is an ongoing joint work with Dr. [Laura Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) 
-#		on investigating the under-estimated survival rate with the objects that may potentially lost tracked under the bayesian paradigm."""
-#		project_page = ""
-#		code_link = ""
-#		blog_link = ""
-		
-# [[params.projects.project]]
-#		name = "Backtesting in real-time probabilistic forecasts"
-#		description  = ""
-#		project_page = "../post/chi-kuang_projects.html"
-#		code_link = ""
-#		blog_link = ""
+[[params.projects.project]]
+  name = "Bayesian capture-recapture modeling with tag-failure"
+	description  = """Ongoing joint work with Prof. 
+	[Laura Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) 
+	 at the University of Victoria"""
+	project_page = ""
+	code_link = ""
+	blog_link = ""
 
 # [[params.projects.project]]
 #		name = "Integer eget aliquet nibh praesent tristique magna"
