@@ -33,6 +33,12 @@ timeout = 3000
   icon = "book-open"
   url = "https://www.researchgate.net/profile/Chi_Kuang_Yeh"
 
+[[params.introduction.paragraph]]
+  text = """**Note**: I am currently the co-organizer of the departmental 
+  [student seminar series](https://uwaterloo.ca/statistics-and-actuarial-science/events/student-seminar-series)
+  along with [Christopher Salahub](https://uwaterloo.ca/scholar/csalahub/home). Feel free to shoot any of us an 
+  email if you want to join or have any inquiries! We will be more than happy to answer :).
+  """
 
 [[params.introduction.paragraph]]
   text = """Hello, thanks for stopping by! :) I am curerntly a third-year PhD student at the 
