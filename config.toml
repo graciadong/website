@@ -43,44 +43,27 @@ timeout = 3000
   """
 
 [[params.introduction.paragraph]]
-  text = """Hello, thanks for stopping by! :) I am curerntly a third-year PhD student at the 
-  [University of Waterloo](https://uwaterloo.ca) working with Prof. [Greg Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice) 
-  and Prof. [Joel A. Dubin](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/joel-dubin), where I am (somehow)
-  affilated with [HDSL](https://uwaterloo.ca/health-data-science-lab/). Previously, I also worked with Prof. [Martin Lysy](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/martin-lysy) 
-  and Dr. [Joslin Goh](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/jtcgoh)
-  at the [Statistical Consulting and Collaborative Research Unit (SCCRU)](https://uwaterloo.ca/statistical-consulting-and-collaborative-research-unit/). 
-  My other personal website hosted by UWaterloo server can be found 
-  [here](https://uwaterloo.ca/scholar/c26yeh/home)."""
-  
-[[params.introduction.paragraph]]
-  text=""" Before coming to Waterloo, I obtained MSc and BSc degrees at the 
-  [University of Victoria](https://www.uvic.ca/), 
-  both were supervised by Prof. [Julie Zhou](https://www.uvic.ca/science/math-statistics/people/home/faculty/zhou_julie.php),
-  in a beautiful city, [Victoria](https://www.victoria.ca/), British Columbia, Canada.
-  """
-  
-[[params.introduction.paragraph]]
-  text="""In my spare time, I like playing basketball, 
-    chess and readong books, articles manga and random stuff."""
+  text = """I am curerntly a PhD student at the 
+  [University of Waterloo](https://uwaterloo.ca) working with Prof. 
+  [Greg Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice)."""
 
+#[[params.projects]] 
+#[[params.projects.project]]
+#	name = "Statistical inference on functonal times series"
+#	description  = """Ongoing joint work with my supervisors:
+#	    Prof. Gregory Rice and Prof. Joel A. Dubin."""
+#	project_page = ""
+#	code_link = ""
+#	blog_link = ""
 
-[[params.projects]] 
-[[params.projects.project]]
-	name = "Statistical inference on functonal times series"
-	description  = """Ongoing joint work with my supervisors:
-	    Prof. Gregory Rice and Prof. Joel A. Dubin."""
-	project_page = ""
-	code_link = ""
-	blog_link = ""
-
-[[params.projects.project]]
-  name = "Capture-recapture modeling in Bayesian paradigm"
-	description  = """Ongoing joint work with Prof. 
-	[Laura L.E. Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) 
-	 at the University of Victoria."""
-	project_page = ""
-	code_link = ""
-	blog_link = ""
+#[[params.projects.project]]
+#  name = "Capture-recapture modeling in Bayesian paradigm"
+#	description  = """Ongoing joint work with Prof. 
+#	[Laura L.E. Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) 
+#	 at the University of Victoria."""
+#	project_page = ""
+#	code_link = ""
+#	blog_link = ""
 
 [[params.publications]]
   year = "Preprint"
@@ -90,7 +73,7 @@ timeout = 3000
 	authors  = """**Chi-Kuang Yeh**, Gregory Rice & Joel A. Dubin"""
 	dest  = "*Submitted*. Avaliable on arXiv. Associated package will be release soon"
 	link = "https://arxiv.org/abs/2010.00781"
-	code_link = "https://github.com/chikuang/RTPForNBA"
+	code_link = ""
 	blog_link = ""
 
 [[params.publications]]
