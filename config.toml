@@ -12,7 +12,7 @@ timeout = 3000
       longitudianl data analysis, 
       time series analysis
     & experimental design"""
-  cv_name= "CV_Yeh_Oct2_2020.pdf"
+  cv_name= "CV_Yeh_Jan1_2021.pdf"
   blog="https://uwaterloo.ca/scholar/c26yeh/home"
 
 [[params.affilation]]
