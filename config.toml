@@ -8,11 +8,11 @@ timeout = 3000
 
 [params]
   subtitle= "PhD Candidate"
-  interests = """Panel Data, functional data analysis, 
+  interests = """Panel Data, functional data analysis espeically with depdendence, 
       longitudianl data analysis, 
       time series analysis
     & experimental design"""
-  cv_name= "CV_Yeh_Jan1_2021.pdf"
+  cv_name= "CV_Yeh_Aug7_2021.pdf"
   blog="https://uwaterloo.ca/scholar/c26yeh/home"
 
 [[params.affilation]]
@@ -38,14 +38,15 @@ timeout = 3000
 [[params.introduction.paragraph]]
   text = """**Attention**: I am currently the co-organizer of the departmental 
   [student seminar series](https://uwaterloo.ca/statistics-and-actuarial-science/events/student-seminar-series)
-  along with [Christopher Salahub](https://uwaterloo.ca/scholar/csalahub/home). Feel free to shoot any of us an 
-  email if you want to join or have any inquiries! We will be more than happy to answer :).
+  along with [Christopher Salahub](https://uwaterloo.ca/scholar/csalahub/home). Feel free to send us an 
+  email if you want to join or have any inquiries! Hope to see you all there :).
   """
 
 [[params.introduction.paragraph]]
   text = """I am curerntly a PhD student at the 
   [University of Waterloo](https://uwaterloo.ca) working with Prof. 
-  [Greg Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice)."""
+  [Greg Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice). Fun fact: I used to be a programmer 
+  working in computer graphics."""
 
 #[[params.projects]] 
 #[[params.projects.project]]
@@ -65,36 +66,36 @@ timeout = 3000
 #	code_link = ""
 #	blog_link = ""
 
-[[params.publications]]
-  year = "Preprint"
-[[params.publications.paper]]
-	name = """Evaluating real-time probabilistic forecasts with application to 
-	  National Basketball Association outcome prediction"""
-	authors  = """**Chi-Kuang Yeh**, Gregory Rice & Joel A. Dubin"""
-	dest  = "*Submitted*. Avaliable on arXiv. Associated package will be release soon"
-	link = "https://arxiv.org/abs/2010.00781"
-	code_link = ""
-	blog_link = ""
+#  [[params.publications]]
+#  year = "Preprint"
+# [[params.publications.paper]]
+#	name = """Evaluating real-time probabilistic forecasts with application to 
+#	  National Basketball Association outcome prediction"""
+#	authors  = """**Chi-Kuang Yeh**, Gregory Rice & Joel A. Dubin"""
+#	dest  = "*Submitted*. Avaliable on arXiv. Associated package will be release soon"
+#	link = "https://arxiv.org/abs/2010.00781"
+#	code_link = ""
+#	blog_link = ""
 
-[[params.publications]]
-  year = "2019"
-[[params.publications.paper]]
-	name = "Properties of optimal regression designs under the second-order least squares estimator"
-	authors = "**Chi-Kuang Yeh** & Julie Zhou"
-	dest  = "Statistical Papers"
-	link = "https://link.springer.com/article/10.1007%2Fs00362-018-01076-6"
-	code_link = "https://github.com/chikuang/OptimalDesigns-SLSE"
-	blog_link = ""
+#[[params.publications]]
+#  year = "2021"
+#[[params.publications.paper]]
+#	name = "Properties of optimal regression designs under the second-order least squares estimator"
+#	authors = "**Chi-Kuang Yeh** & Julie Zhou"
+#	dest  = "Statistical Papers"
+#	link = "https://link.springer.com/article/10.1007%2Fs00362-018-01076-6"
+#	code_link = "https://github.com/chikuang/OptimalDesigns-SLSE"
+#	blog_link = ""
 	
-[[params.publications]]
-  year = "2018"
-[[params.publications.paper]]
-	name = "Optimal regression design under second-order least squares estimator: theory, algorithm and applications"
-	authors = "**Chi-Kuang Yeh**"
-	dest  = "Master's Thesis, University of Victoria"
-	link = "https://dspace.library.uvic.ca/handle/1828/9765"
-	code_link = "https://github.com/chikuang/OptimalDesigns-SLSE"
-	blog_link = ""
+#[[params.publications]]
+#  year = "2018"
+#[[params.publications.paper]]
+#	name = "Optimal regression design under second-order least squares estimator: theory, algorithm and applications"
+#	authors = "**Chi-Kuang Yeh**"
+#	dest  = "Master's Thesis, University of Victoria"
+#	link = "https://dspace.library.uvic.ca/handle/1828/9765"
+#	code_link = ""
+#	blog_link = ""
 
 # [[params.projects.project]]
 #		name = "Integer eget aliquet nibh praesent tristique magna"
