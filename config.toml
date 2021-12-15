@@ -8,11 +8,10 @@ timeout = 3000
 
 [params]
   subtitle= "PhD Candidate"
-  interests = """Panel Data, functional data analysis espeically with depdendence, 
-      longitudianl data analysis, 
+  interests = """Functional data analysis, depdendence, 
       time series analysis
-    & experimental design"""
-  cv_name= "CV_Yeh_Aug7_2021.pdf"
+    & optimal design of experimental"""
+  cv_name= "CV_Yeh_Dec15_2021.pdf"
   blog="https://uwaterloo.ca/scholar/c26yeh/home"
 
 [[params.affilation]]
@@ -38,15 +37,13 @@ timeout = 3000
 [[params.introduction.paragraph]]
   text = """**Attention**: I am currently the co-organizer of the departmental 
   [student seminar series](https://uwaterloo.ca/statistics-and-actuarial-science/events/student-seminar-series)
-  along with [Christopher Salahub](https://uwaterloo.ca/scholar/csalahub/home). Feel free to send us an 
-  email if you want to join or have any inquiries! Hope to see you all there :).
+  along with [Minzee Kim](https://uwaterloo.ca/scholar/csalahub/home). Hope you will join us there :).
   """
 
 [[params.introduction.paragraph]]
-  text = """I am curerntly a PhD student at the 
+  text = """I am a PhD student at the 
   [University of Waterloo](https://uwaterloo.ca) working with Prof. 
-  [Greg Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice). Fun fact: I used to be a programmer 
-  working in computer graphics."""
+  [Gregory Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice)."""
 
 #[[params.projects]] 
 #[[params.projects.project]]
