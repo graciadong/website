@@ -37,7 +37,7 @@ timeout = 3000
 [[params.introduction.paragraph]]
   text = """**Attention**: I am currently the co-organizer of the departmental 
   [student seminar series](https://uwaterloo.ca/statistics-and-actuarial-science/events/student-seminar-series)
-  along with [Minzee Kim](https://uwaterloo.ca/scholar/csalahub/home). Hope you will join us there :).
+  along with Minzee Kim. Hope you will join us there :).
   """
 
 [[params.introduction.paragraph]]
