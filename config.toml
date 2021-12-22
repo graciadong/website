@@ -8,7 +8,7 @@ timeout = 3000
 
 [params]
   subtitle= "PhD Candidate"
-  interests = """Functional data analysis, depdendence, 
+  interests = """Functional data analysis, espeically with dependence, 
       time series analysis
     & optimal design of experimental"""
   cv_name= "CV_Yeh_Dec15_2021.pdf"
@@ -41,9 +41,13 @@ timeout = 3000
   """
 
 [[params.introduction.paragraph]]
-  text = """I am a PhD student at the 
-  [University of Waterloo](https://uwaterloo.ca) working with Prof. 
-  [Gregory Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice)."""
+  text = """**About me**: Hello, welcome to my site! I am a PhD student at the 
+  [University of Waterloo](https://uwaterloo.ca) working with Profs. 
+  [Gregory Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice) and 
+  [Joel A. Dubin](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/joel-dubin).
+  Feel free to check out our lab [here](https://uwaterloo.ca/health-data-science-lab/)! Previously, 
+  I received my BSc and MSc degrees from the [University of Victoria](https://www.uvic.ca/) under 
+  the supervision of Prof. [Julie Zhou](https://www.uvic.ca/science/math-statistics/people/home/faculty/zhou_julie.php)."""
 
 #[[params.projects]] 
 #[[params.projects.project]]
