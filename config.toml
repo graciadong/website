@@ -67,26 +67,26 @@ timeout = 3000
 #	code_link = ""
 #	blog_link = ""
 
-#  [[params.publications]]
-#  year = "Preprint"
-# [[params.publications.paper]]
-#	name = """Evaluating real-time probabilistic forecasts with application to 
-#	  National Basketball Association outcome prediction"""
-#	authors  = """**Chi-Kuang Yeh**, Gregory Rice & Joel A. Dubin"""
-#	dest  = "*Submitted*. Avaliable on arXiv. Associated package will be release soon"
-#	link = "https://arxiv.org/abs/2010.00781"
-#	code_link = ""
-#	blog_link = ""
+[[params.publications]]
+year = "2021"
+[[params.publications.paper]]
+name = """Evaluating real-time probabilistic forecasts with application to 
+	  National Basketball Association outcome prediction"""
+authors  = "**Chi-Kuang Yeh**, Gregory Rice & Joel A. Dubin"
+dest  = "The American Statistician"
+link = "https://www.tandfonline.com/doi/abs/10.1080/00031305.2021.1967781?journalCode=utas20"
+code_link = "https://github.com/chikuang/evalRTPF"
+blog_link = ""
 
-#[[params.publications]]
-#  year = "2021"
-#[[params.publications.paper]]
-#	name = "Properties of optimal regression designs under the second-order least squares estimator"
-#	authors = "**Chi-Kuang Yeh** & Julie Zhou"
-#	dest  = "Statistical Papers"
-#	link = "https://link.springer.com/article/10.1007%2Fs00362-018-01076-6"
-#	code_link = "https://github.com/chikuang/OptimalDesigns-SLSE"
-#	blog_link = ""
+[[params.publications]]
+  year = "2021"
+[[params.publications.paper]]
+	name = "Properties of optimal regression designs under the second-order least squares estimator"
+	authors = "**Chi-Kuang Yeh** & Julie Zhou"
+dest  = "Statistical Papers"
+link = "https://link.springer.com/article/10.1007%2Fs00362-018-01076-6"
+code_link = "https://github.com/chikuang/OptimalDesigns-SLSE"
+# blog_link = ""
 	
 #[[params.publications]]
 #  year = "2018"
