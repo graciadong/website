@@ -35,18 +35,22 @@ timeout = 3000
   url = "https://www.researchgate.net/profile/Chi_Kuang_Yeh"
 
 [[params.introduction.paragraph]]
-  text = """**Attention**: I am currently the co-organizer of the departmental 
-  [student seminar series](https://uwaterloo.ca/statistics-and-actuarial-science/events/student-seminar-series)
-  along with Minzee Kim. Hope you will join us there :).
+  text = """**Note**: I am currently on leave of absense till *September 1st, 2022*.
   """
 
+# [[params.introduction.paragraph]]
+#  text = """**Attention**: I am currently the co-organizer of the departmental 
+#  [student seminar series](https://uwaterloo.ca/statistics-and-actuarial-science/events/student-seminar-series)
+#  along with Minzee Kim. Hope you will join us there :).
+#
+
 [[params.introduction.paragraph]]
-  text = """**About me**: Hello, welcome to my site! I am a PhD student at the 
+  text = """**About me**: Hello and welcome! I am a PhD student at the 
   [University of Waterloo](https://uwaterloo.ca) working with Profs. 
   [Gregory Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice) and 
   [Joel A. Dubin](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/joel-dubin).
   Feel free to check out our lab [here](https://uwaterloo.ca/health-data-science-lab/)! Previously, 
-  I received my BSc and MSc degrees from the [University of Victoria](https://www.uvic.ca/) under 
+  I received BSc and MSc degrees from the [University of Victoria](https://www.uvic.ca/) under 
   the supervision of Prof. [Julie Zhou](https://www.uvic.ca/science/math-statistics/people/home/faculty/zhou_julie.php)."""
 
 #[[params.projects]] 
@@ -67,25 +71,23 @@ timeout = 3000
 #	code_link = ""
 #	blog_link = ""
 
-[[params.publications]]
-year = "2021"
-[[params.publications.paper]]
-name = """Evaluating real-time probabilistic forecasts with application to 
-	  National Basketball Association outcome prediction"""
-authors  = "**Chi-Kuang Yeh**, Gregory Rice & Joel A. Dubin"
-dest  = "The American Statistician"
-link = "https://www.tandfonline.com/doi/abs/10.1080/00031305.2021.1967781?journalCode=utas20"
-code_link = "https://github.com/chikuang/evalRTPF"
-blog_link = ""
+# [[params.publications]]
+# year = "2021"
+# [[params.publications.paper]]
+# name = """Evaluating real-time probabilistic forecasts with application to 
+# 	  National Basketball Association outcome prediction"""
+# authors  = "**Chi-Kuang Yeh**, Gregory Rice & Joel A. Dubin"
+# dest  = "The American Statistician"
+# link = "https://www.tandfonline.com/doi/abs/10.1080/00031305.2021.1967781?journalCode=utas20"
+# code_link = "https://github.com/chikuang/evalRTPF"
+# blog_link = ""
 
-[[params.publications]]
-  year = "2021"
-[[params.publications.paper]]
-	name = "Properties of optimal regression designs under the second-order least squares estimator"
-	authors = "**Chi-Kuang Yeh** & Julie Zhou"
-dest  = "Statistical Papers"
-link = "https://link.springer.com/article/10.1007%2Fs00362-018-01076-6"
-code_link = "https://github.com/chikuang/OptimalDesigns-SLSE"
+# [[params.publications.paper]]
+#	name = "Properties of optimal regression designs under the second-order least squares estimator"
+#	authors = "**Chi-Kuang Yeh** & Julie Zhou"
+# dest  = "Statistical Papers"
+# link = "https://link.springer.com/article/10.1007%2Fs00362-018-01076-6"
+# code_link = "https://github.com/chikuang/OptimalDesigns-SLSE"
 # blog_link = ""
 	
 #[[params.publications]]
