@@ -35,23 +35,19 @@ timeout = 3000
   url = "https://www.researchgate.net/profile/Chi_Kuang_Yeh"
 
 [[params.introduction.paragraph]]
-  text = """**Note**: I am currently on leave of absense till *September 1st, 2022*.
-  """
+  text = """**Note**: I am currently the co-organizer of the departmental 
+  [student seminar series](https://uwaterloo.ca/statistics-and-actuarial-science/events/student-seminar-series)
+  along with [Minzee Kim](https://www.linkedin.com/in/minzee-kim-14555a130/?originalSubdomain=ca)."""
 
-# [[params.introduction.paragraph]]
-#  text = """**Attention**: I am currently the co-organizer of the departmental 
-#  [student seminar series](https://uwaterloo.ca/statistics-and-actuarial-science/events/student-seminar-series)
-#  along with Minzee Kim. Hope you will join us there :).
-#
 
 [[params.introduction.paragraph]]
-  text = """**About me**: Hello and welcome! I am a PhD student at the 
+  text = """**About me**: I am a final year PhD student at the 
   [University of Waterloo](https://uwaterloo.ca) working with Profs. 
   [Gregory Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice) and 
   [Joel A. Dubin](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/joel-dubin).
-  Feel free to check out our lab [here](https://uwaterloo.ca/health-data-science-lab/)! Previously, 
-  I received BSc and MSc degrees from the [University of Victoria](https://www.uvic.ca/) under 
-  the supervision of Prof. [Julie Zhou](https://www.uvic.ca/science/math-statistics/people/home/faculty/zhou_julie.php)."""
+  Previously, I received BSc and MSc degrees from the [University of Victoria](https://www.uvic.ca/) under 
+  the supervision of Prof. [Julie Zhou](https://www.uvic.ca/science/math-statistics/people/home/faculty/zhou_julie.php). 
+  I also worked closely with Prof. [Peijun Sang](https://uwaterloo.ca/scholar/psang)."""
 
 #[[params.projects]] 
 #[[params.projects.project]]
@@ -71,34 +67,48 @@ timeout = 3000
 #	code_link = ""
 #	blog_link = ""
 
-# [[params.publications]]
-# year = "2021"
-# [[params.publications.paper]]
-# name = """Evaluating real-time probabilistic forecasts with application to 
-# 	  National Basketball Association outcome prediction"""
-# authors  = "**Chi-Kuang Yeh**, Gregory Rice & Joel A. Dubin"
-# dest  = "The American Statistician"
-# link = "https://www.tandfonline.com/doi/abs/10.1080/00031305.2021.1967781?journalCode=utas20"
-# code_link = "https://github.com/chikuang/evalRTPF"
-# blog_link = ""
+[[params.publications]]
+year = "Preprint"
 
-# [[params.publications.paper]]
-#	name = "Properties of optimal regression designs under the second-order least squares estimator"
-#	authors = "**Chi-Kuang Yeh** & Julie Zhou"
-# dest  = "Statistical Papers"
-# link = "https://link.springer.com/article/10.1007%2Fs00362-018-01076-6"
-# code_link = "https://github.com/chikuang/OptimalDesigns-SLSE"
-# blog_link = ""
+[[params.publications.paper]]
+name = """Functional Spherical Autocorrelation: A Robust Estimate 
+  of the Autocorrelation of a Functional Time Series"""
+ authors  = "**Chi-Kuang Yeh**, Gregory Rice & Joel A. Dubin"
+ dest  = "arXiv:2207.05806"
+ link = "https://arxiv.org/abs/2207.05806"
+ code_link = ""
+ blog_link = ""
+
+[[params.publications]]
+year = "2022"
+[[params.publications.paper]]
+name = """Evaluating real-time probabilistic forecasts with application to 
+ 	  National Basketball Association outcome prediction"""
+ authors  = "**Chi-Kuang Yeh**, Gregory Rice & Joel A. Dubin"
+ dest  = "The American Statistician, 76, 214--223"
+ link = "https://www.tandfonline.com/doi/abs/10.1080/00031305.2021.1967781?journalCode=utas20"
+ code_link = "https://github.com/chikuang/evalRTPF"
+ blog_link = ""
+
+[[params.publications]]
+year = "2021"
+[[params.publications.paper]]
+name = "Properties of optimal regression designs under the second-order least squares estimator"
+authors = "**Chi-Kuang Yeh** & Julie Zhou"
+dest  = "Statistical Papers, 62, 75--92"
+link = "https://link.springer.com/article/10.1007%2Fs00362-018-01076-6"
+code_link = "https://github.com/chikuang/OptimalDesigns-SLSE"
+log_link = ""
 	
-#[[params.publications]]
-#  year = "2018"
-#[[params.publications.paper]]
-#	name = "Optimal regression design under second-order least squares estimator: theory, algorithm and applications"
-#	authors = "**Chi-Kuang Yeh**"
-#	dest  = "Master's Thesis, University of Victoria"
-#	link = "https://dspace.library.uvic.ca/handle/1828/9765"
-#	code_link = ""
-#	blog_link = ""
+[[params.publications]]
+  year="Thesis"
+[[params.publications.paper]]
+	name = "Optimal regression design under second-order least squares estimator: theory, algorithm and applications"
+	authors = "**Chi-Kuang Yeh**"
+	dest  = "Master's Thesis, University of Victoria"
+	link = "https://dspace.library.uvic.ca/handle/1828/9765"
+	code_link = ""
+	blog_link = ""
 
 # [[params.projects.project]]
 #		name = "Integer eget aliquet nibh praesent tristique magna"
