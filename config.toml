@@ -11,7 +11,7 @@ timeout = 3000
   interests = """Functional data analysis, espeically with dependence, 
       time series analysis
     & optimal design of experimental"""
-  cv_name= "CV_Yeh_Dec15_2021.pdf"
+  cv_name= "CV_YCK_Sep20_2022.pdf"
   blog="https://uwaterloo.ca/scholar/c26yeh/home"
 
 [[params.affilation]]
@@ -47,7 +47,7 @@ timeout = 3000
   [Joel A. Dubin](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/joel-dubin).
   Previously, I received BSc and MSc degrees from the [University of Victoria](https://www.uvic.ca/) under 
   the supervision of Prof. [Julie Zhou](https://www.uvic.ca/science/math-statistics/people/home/faculty/zhou_julie.php). 
-  I also worked closely with Prof. [Peijun Sang](https://uwaterloo.ca/scholar/psang)."""
+  I also work closely with Profs. [Peijun Sang](https://uwaterloo.ca/scholar/psang)."""
 
 #[[params.projects]] 
 #[[params.projects.project]]
