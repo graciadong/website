@@ -1,7 +1,7 @@
 baseurl = "https://graciadong.github.io/"
 publishDir = "../graciadong.github.io"
 languageCode = "en-us"
-title = "Yunruo Dong"
+title = "Gracia Yunruo Dong"
 theme = "avicenna"
 googleAnalytics = "UA-1234-6"
 timeout = 3000
@@ -9,16 +9,16 @@ timeout = 3000
 [params]
   subtitle= "Postdoctral Fellow"
   interests = """I am interested in a lot of areas, but for now, my research 
-  is centred around Functional data analysis, espeically with dependence, 
-      time series analysis
-    & optimal design of experimental"""
+ interests include:
+ - Capture Recapture methods to enumerate the homeless population in Victoria
+ - Determining the health effects from spikes in air pollution"""
   cv_name= "Resume_GraciaDong.pdf"
   # blog="https://uwaterloo.ca/scholar/c26yeh/home"
 
 [[params.affilation]]
   name = "University of Toronto"
   position = "Postdoctral Fellow"
-  contact = "chi-kuang.yeh@uwaterloo.ca"
+  contact = "gracia.dong@uwaterloo.ca"
 
 [[params.social]]
   name = "GitHub"
@@ -28,7 +28,7 @@ timeout = 3000
 [[params.social]]
   name = "LinkedIn"
   icon = "linkedin"
-  url = "https://www.linkedin.com/in/chi-kuang-yeh-040523110/"
+  url = "https://www.linkedin.com/in/graciadong/"
 
 [[params.social]]
   name = "Researchgate"
