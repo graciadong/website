@@ -12,8 +12,8 @@ timeout = 3000
   is centred around Functional data analysis, espeically with dependence, 
       time series analysis
     & optimal design of experimental"""
-  cv_name= "CV_YCK_Sep20_2022.pdf"
-  blog="https://uwaterloo.ca/scholar/c26yeh/home"
+  cv_name= "Resume_GraciaDong.pdf"
+  # blog="https://uwaterloo.ca/scholar/c26yeh/home"
 
 [[params.affilation]]
   name = "University of Toronto"
@@ -42,13 +42,11 @@ timeout = 3000
 
 
 [[params.introduction.paragraph]]
-  text = """**About me**: I am a final year PhD student at the 
-  [University of Waterloo](https://uwaterloo.ca) working with Profs. 
-  [Gregory Rice](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/grice) and 
-  [Joel A. Dubin](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/joel-dubin).
-  Previously, I received BSc and MSc degrees from the [University of Victoria](https://www.uvic.ca/) under 
-  the supervision of Prof. [Julie Zhou](https://www.uvic.ca/science/math-statistics/people/home/faculty/zhou_julie.php). 
-  I also work closely with Prof. [Peijun Sang](https://uwaterloo.ca/scholar/psang)."""
+  text = """**About me**: Hello I am Gracia Dong. I am currently a postdoctoral fellow worknig with 
+  [Patrick Brown](https://www.statistics.utoronto.ca/people/directories/all-faculty/patrick-brown) from University of
+  Toronto and 
+  [Laura Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) from Univerisity of 
+  Victoria."""
 
 #[[params.projects]] 
 #[[params.projects.project]]
