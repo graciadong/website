@@ -1,13 +1,13 @@
-baseurl = "https://chikuang.github.io/"
-publishDir = "../chikuang.github.io"
+baseurl = "https://graciadong.github.io/"
+publishDir = "../graciadong.github.io"
 languageCode = "en-us"
-title = "Chi-Kuang Yeh"
+title = "Yunruo Dong"
 theme = "avicenna"
 googleAnalytics = "UA-1234-6"
 timeout = 3000
 
 [params]
-  subtitle= "PhD Candidate"
+  subtitle= "Postdoctral Fellow"
   interests = """I am interested in a lot of areas, but for now, my research 
   is centred around Functional data analysis, espeically with dependence, 
       time series analysis
@@ -16,14 +16,14 @@ timeout = 3000
   blog="https://uwaterloo.ca/scholar/c26yeh/home"
 
 [[params.affilation]]
-  name = "University of Waterloo"
-  position = "PhD(c) in Statistics"
+  name = "University of Toronto"
+  position = "Postdoctral Fellow"
   contact = "chi-kuang.yeh@uwaterloo.ca"
 
 [[params.social]]
   name = "GitHub"
   icon = "github"
-  url = "https://github.com/chikuang"
+  url = "https://github.com/graciadong"
   
 [[params.social]]
   name = "LinkedIn"
@@ -33,12 +33,12 @@ timeout = 3000
 [[params.social]]
   name = "Researchgate"
   icon = "book-open"
-  url = "https://www.researchgate.net/profile/Chi_Kuang_Yeh"
+  url = "https://www.researchgate.net/profile/Gracia-Dong"
 
-[[params.introduction.paragraph]]
-  text = """**Note**: I am currently the co-organizer of the departmental 
-  [student seminar series](https://uwaterloo.ca/statistics-and-actuarial-science/events/student-seminar-series)
-  along with [Minzee Kim](https://www.linkedin.com/in/minzee-kim-14555a130/?originalSubdomain=ca)."""
+# [[params.introduction.paragraph]]
+#  text = """**Note**: I am currently the co-organizer of the departmental 
+#  [student seminar series](https://uwaterloo.ca/statistics-and-actuarial-science/events/student-seminar-series)
+#  along with [Minzee Kim](https://www.linkedin.com/in/minzee-kim-14555a130/?originalSubdomain=ca)."""
 
 
 [[params.introduction.paragraph]]
