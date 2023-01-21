@@ -6,19 +6,36 @@ theme = "avicenna"
 googleAnalytics = "UA-1234-6"
 timeout = 3000
 
+# [[params.introduction.paragraph]]
+#  text = """**Note**: I am currently the co-organizer of the departmental 
+#  [student seminar series](https://uwaterloo.ca/statistics-and-actuarial-science/events/student-seminar-series)
+#  along with [Minzee Kim](https://www.linkedin.com/in/minzee-kim-14555a130/?originalSubdomain=ca)."""
+
+
+[[params.introduction.paragraph]]
+  text = """**About me**: Hello, I am Gracia Dong. I am currently a postdoctoral fellow at University of Toronto, Department of Statistical Sciences and 
+  St. Michael's Hospital, Centre for Global Health Research working with 
+  [Patrick Brown](https://www.statistics.utoronto.ca/people/directories/all-faculty/patrick-brown) from University of
+  Toronto and 
+  [Laura Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) from Univerisity of 
+  Victoria."""
+
+
 [params]
-  subtitle= "Postdoctral Fellow"
+  subtitle= ""
   interests = """I am interested in a lot of areas, but for now, my research 
  interests include:
  - Capture Recapture methods to enumerate the homeless population in Victoria
  - Determining the health effects from spikes in air pollution"""
+ 
+ 
   cv_name= "Resume_GraciaDong.pdf"
   # blog="https://uwaterloo.ca/scholar/c26yeh/home"
 
 [[params.affilation]]
   name = "University of Toronto"
   position = "Postdoctral Fellow"
-  contact = "gracia.dong@uwaterloo.ca"
+  contact = "gracia.dong@utoronto.ca"
 
 [[params.social]]
   name = "GitHub"
@@ -35,18 +52,6 @@ timeout = 3000
   icon = "book-open"
   url = "https://www.researchgate.net/profile/Gracia-Dong"
 
-# [[params.introduction.paragraph]]
-#  text = """**Note**: I am currently the co-organizer of the departmental 
-#  [student seminar series](https://uwaterloo.ca/statistics-and-actuarial-science/events/student-seminar-series)
-#  along with [Minzee Kim](https://www.linkedin.com/in/minzee-kim-14555a130/?originalSubdomain=ca)."""
-
-
-[[params.introduction.paragraph]]
-  text = """**About me**: Hello I am Gracia Dong. I am currently a postdoctoral fellow worknig with 
-  [Patrick Brown](https://www.statistics.utoronto.ca/people/directories/all-faculty/patrick-brown) from University of
-  Toronto and 
-  [Laura Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) from Univerisity of 
-  Victoria."""
 
 #[[params.projects]] 
 #[[params.projects.project]]
@@ -66,48 +71,48 @@ timeout = 3000
 #	code_link = ""
 #	blog_link = ""
 
-[[params.publications]]
-year = "Preprint"
-
-[[params.publications.paper]]
-name = """Functional Spherical Autocorrelation: A Robust Estimate 
-  of the Autocorrelation of a Functional Time Series"""
- authors  = "**Chi-Kuang Yeh**, Gregory Rice & Joel A. Dubin"
- dest  = "arXiv:2207.05806"
- link = "https://arxiv.org/abs/2207.05806"
- code_link = ""
- blog_link = ""
-
-[[params.publications]]
-year = "2022"
-[[params.publications.paper]]
-name = """Evaluating real-time probabilistic forecasts with application to 
- 	  National Basketball Association outcome prediction"""
- authors  = "**Chi-Kuang Yeh**, Gregory Rice & Joel A. Dubin"
- dest  = "The American Statistician, 76, 214--223"
- link = "https://www.tandfonline.com/doi/abs/10.1080/00031305.2021.1967781?journalCode=utas20"
- code_link = "https://github.com/chikuang/evalRTPF"
- blog_link = ""
-
-[[params.publications]]
-year = "2021"
-[[params.publications.paper]]
-name = "Properties of optimal regression designs under the second-order least squares estimator"
-authors = "**Chi-Kuang Yeh** & Julie Zhou"
-dest  = "Statistical Papers, 62, 75--92"
-link = "https://link.springer.com/article/10.1007%2Fs00362-018-01076-6"
-code_link = "https://github.com/chikuang/OptimalDesigns-SLSE"
-log_link = ""
-	
-[[params.publications]]
-  year="Thesis"
-[[params.publications.paper]]
-	name = "Optimal regression design under second-order least squares estimator: theory, algorithm and applications"
-	authors = "**Chi-Kuang Yeh**"
-	dest  = "Master's Thesis, University of Victoria"
-	link = "https://dspace.library.uvic.ca/handle/1828/9765"
-	code_link = ""
-	blog_link = ""
+# [[params.publications]]
+# year = "Preprint"
+# 
+# [[params.publications.paper]]
+# name = """Functional Spherical Autocorrelation: A Robust Estimate 
+#   of the Autocorrelation of a Functional Time Series"""
+# authors  = "**Chi-Kuang Yeh**, Gregory Rice & Joel A. Dubin"
+# dest  = "arXiv:2207.05806"
+# link = "https://arxiv.org/abs/2207.05806"
+# code_link = ""
+# blog_link = ""
+# 
+# [[params.publications]]
+# year = "2022"
+# [[params.publications.paper]]
+# name = """Evaluating real-time probabilistic forecasts with application to 
+#  	  National Basketball Association outcome prediction"""
+# authors  = "**Chi-Kuang Yeh**, Gregory Rice & Joel A. Dubin"
+# dest  = "The American Statistician, 76, 214--223"
+# link = "https://www.tandfonline.com/doi/abs/10.1080/00031305.2021.1967781?journalCode=utas20"
+# code_link = "https://github.com/chikuang/evalRTPF"
+# blog_link = ""
+# 
+# [[params.publications]]
+# year = "2021"
+# [[params.publications.paper]]
+# name = "Properties of optimal regression designs under the second-order least squares estimator"
+# authors = "**Chi-Kuang Yeh** & Julie Zhou"
+# dest  = "Statistical Papers, 62, 75--92"
+# link = "https://link.springer.com/article/10.1007%2Fs00362-018-01076-6"
+# code_link = "https://github.com/chikuang/OptimalDesigns-SLSE"
+# log_link = ""
+# 
+# [[params.publications]]
+# year="Thesis"
+# [[params.publications.paper]]
+# name = "Optimal regression design under second-order least squares estimator: theory, algorithm and applications"
+# authors = "**Chi-Kuang Yeh**"
+# dest  = "Master's Thesis, University of Victoria"
+# link = "https://dspace.library.uvic.ca/handle/1828/9765"
+# code_link = ""
+# blog_link = ""
 
 # [[params.projects.project]]
 #		name = "Integer eget aliquet nibh praesent tristique magna"
