@@ -9,10 +9,10 @@ hello  content/publications/index.md
 
 pub1: On the dependence structure and quality of scrambled (t, m, s)‑nets
 
-pub2: Dependence Properties of Scrambled Halton Sequences
+pub2: Dependence properties of scrambled Halton sequences
 
-pub3: Adapting the Motivated Strategies for Learning Questionnaire for a Writing and Communication Program 
+pub3: A negative dependence framework to assess different forms of scrambling
 
-pub4: A negative dependence framework to assess different forms of scrambling
+pub4: Adapting the Motivated Strategies for Learning Questionnaire for a writing and communication program 
 
 pub5: Randomized quasi‑Monte Carlo methods on triangles: extensible lattices and sequences

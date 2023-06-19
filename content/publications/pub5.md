@@ -3,6 +3,7 @@ title: "Randomized quasi‑Monte Carlo methods on triangles: extensible lattices
 authors:
 - Gracia Y. Dong
 - Erik Hintz
+- Marius Hofert
 - Christiane Lemieux
 date: "2023-05-10"
 

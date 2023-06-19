@@ -1,5 +1,5 @@
 ---
-title: "Dependence Properties of Scrambled Halton Sequences"
+title: "Dependence properties of scrambled Halton sequences"
 authors:
 - Gracia Y. Dong
 - Christiane Lemieux

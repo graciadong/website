@@ -1,5 +1,5 @@
 ---
-title: "A Negative Dependence Framework to Assess Different Forms of Scrambling"
+title: "A negative dependence framework to assess different forms of scrambling"
 authors:
 - Henri Faure
 - Gracia Y. Dong
