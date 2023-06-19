@@ -1,5 +1,5 @@
 ---
-title: "Adapting the Motivated Strategies for Learning Questionnaire for a writing and communication program "
+title: "Adapting the Motivated Strategies for Learning Questionnaire for a writing and communication program"
 authors:
 - Jhotisha Mugon 
 - Gracia Y. Dong
@@ -10,7 +10,7 @@ date: "2023-04-06"
 publication: "Collected Essays on Learning and Teaching"
 
 links:
-    pdf: https://celt.uwindsor.ca/index.php/CELT/article/view/71403
+    pdf: https://celt.uwindsor.ca/index.php/CELT/article/view/7140
 ---
 
 
