@@ -6,13 +6,13 @@ academia:
     institution: University of Waterloo
     major: Statistics
     start_date: "2018"
-    other_info: Supervised by Prof. Christiane Lemieux, thesis title: Constructions and applications of quasi-random point sets with negative dependence
+    other_info: Supervised by Prof. Christiane Lemieux; Constructions and applications of quasi-random point sets with negative dependence
 - course:
     degree: MMath
     end_date: "2018"
     institution: University of Waterloo
     major: Statistics
-    other_info: Supervised by Prof. Christiane Lemieux; research paper title: Estimating state space parameters using quasi-Monte Carlo methods
+    other_info: Supervised by Prof. Christiane Lemieux; Estimating state space parameters using quasi-Monte Carlo methods
     start_date: "2017"
 - course:
     degree: BMath.
