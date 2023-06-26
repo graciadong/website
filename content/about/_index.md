@@ -27,7 +27,7 @@ affiliations:
     title: Postdoctoral Fellow
 blog: false
 cv: Resume_GraciaDong.pdf
-date: "2023-06-20"
+date: "2022-09-25T17:51:47+03:30"
 draft: false
 full_name: Gracia Yunruo Dong
 headless: true
@@ -44,4 +44,4 @@ socials:
 title: about
 ---
 
-**About me**: I am currently a CANSSI postdoctoral fellow working with [Patrick Brown](https://www.statistics.utoronto.ca/people/directories/all-faculty/patrick-brown) from University of Toronto and [Laura Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) from Univerisity of Victoria. I am physically based at Centre for Global Health Research at St. Michael’s Hospital.
+**About me**: I am currently a CANSSI postdoctoral fellow working with [Patrick Brown](https://www.statistics.utoronto.ca/people/directories/all-faculty/patrick-brown) from the University of Toronto and [Laura Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) from the University of Victoria. I am physically based at Centre for Global Health Research at St. Michael’s Hospital. In my spare time, ~~I am an avid enjoyer of video games and cosplay.~~ I am primarily responsible for keeping a [small human](https://www.instagram.com/markusdong22/) alive.

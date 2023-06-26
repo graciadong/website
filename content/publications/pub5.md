@@ -7,7 +7,7 @@ authors:
 - Christiane Lemieux
 date: "2023-05-10"
 
-publication: "Submitted"
+publication: "Under Revision"
 
 links:
     pdf: 
