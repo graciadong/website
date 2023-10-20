@@ -16,3 +16,5 @@ pub3: A negative dependence framework to assess different forms of scrambling
 pub4: Adapting the Motivated Strategies for Learning Questionnaire for a writing and communication program 
 
 pub5: Randomized quasi‑Monte Carlo methods on triangles: extensible lattices and sequences
+
+pub6: Estimating the population size of persons contending with homelessness using electronic health data
