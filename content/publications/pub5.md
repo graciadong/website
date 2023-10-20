@@ -5,9 +5,9 @@ authors:
 - Erik Hintz
 - Marius Hofert
 - Christiane Lemieux
-date: "2023-05-10"
+date: "2023-08-10"
 
-publication: "Under Revision"
+publication: "Submitted to Methodology and Computing in Applied Probability"
 
 links:
     pdf: 
