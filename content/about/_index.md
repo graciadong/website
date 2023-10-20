@@ -26,7 +26,7 @@ affiliations:
     name: University of Toronto & Univeristy of Victoria
     title: Postdoctoral Fellow
 blog: false
-cv: Resume_GraciaDong.pdf
+cv: CV_GYD.pdf
 date: "2022-09-25T17:51:47+03:30"
 draft: false
 full_name: Gracia Yunruo Dong
