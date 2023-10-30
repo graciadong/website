@@ -3,7 +3,7 @@ academia:
 - course:
     degree: Postdoctoral Fellow
     end_date: "Present"
-    institution: University of Victoria and University of Toronto
+    institution: University of Victoria & University of Toronto
     start_date: "2022"
     other_info: Supervised by Dr. Laura Cowen and Dr. Patrick Brown
 - course:
@@ -21,15 +21,15 @@ academia:
     other_info: Supervised by Dr. Christiane Lemieux; Estimating state space parameters using quasi-Monte Carlo methods
     start_date: "2017"
 - course:
-    degree: BMath.
+    degree: BMath
     end_date: "2017"
     institution: University of Waterloo
-    major: Statistics & Actuarial Science with Finance Option
+    major: Statistics & Actuarial Science with Finance Option, Computer Science Minor, Co-op
     start_date: "2013"
 affiliations:
 - affiliation:
     email: gracia.dong@utoronto.ca
-    name: University of Toronto & Univeristy of Victoria
+    name: University of Victoria & Univeristy of Toronto
     title: Postdoctoral Fellow
 blog: false
 cv: CV_GYD.pdf
@@ -50,4 +50,4 @@ socials:
 title: about
 ---
 
-**About me**: I am currently a CANSSI postdoctoral fellow working with [Patrick Brown](https://www.statistics.utoronto.ca/people/directories/all-faculty/patrick-brown) from the University of Toronto and [Laura Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) from the University of Victoria. I am physically based at Centre for Global Health Research at St. Michael’s Hospital. In my spare time, ~~I am an avid enjoyer of video games and cosplay.~~ I am primarily responsible for keeping a [small human](https://www.instagram.com/markusdong22/) alive.
+**About me**: I am currently a CANSSI postdoctoral fellow working with [Patrick Brown](https://www.statistics.utoronto.ca/people/directories/all-faculty/patrick-brown) from the University of Toronto and [Laura Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) from the University of Victoria. I am physically based at Centre for Global Health Research at St. Michael’s Hospital. In my spare time, ~~I am an avid enjoyer of video games and cosplay~~ I am primarily responsible for keeping a [small human](https://www.instagram.com/markusdong22/) alive.
