@@ -4,7 +4,7 @@ academia:
     degree: Postdoctoral Fellow
     end_date: "Present"
     institution: University of Victoria and University of Toronto
-    major: Statistics
+    major: Funded by CANSSI
     start_date: "2022"
     other_info: Supervised by Dr. Laura Cowen and Dr. Patrick Brown
 - course:
