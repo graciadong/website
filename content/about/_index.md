@@ -1,18 +1,25 @@
 ---
 academia:
 - course:
+    degree: Postdoctoral Fellow
+    end_date: "Present"
+    institution: University of Victoria and University of Toronto
+    major: Statistics
+    start_date: "2022"
+    other_info: Supervised by Dr. Laura Cowen and Dr. Patrick Brown
+- course:
     degree: PhD
     end_date: "2022"
     institution: University of Waterloo
     major: Statistics
     start_date: "2018"
-    other_info: Supervised by Prof. Christiane Lemieux; Constructions and applications of quasi-random point sets with negative dependence
+    other_info: Supervised by Dr. Christiane Lemieux; Constructions and applications of quasi-random point sets with negative dependence
 - course:
     degree: MMath
     end_date: "2018"
     institution: University of Waterloo
     major: Statistics
-    other_info: Supervised by Prof. Christiane Lemieux; Estimating state space parameters using quasi-Monte Carlo methods
+    other_info: Supervised by Dr. Christiane Lemieux; Estimating state space parameters using quasi-Monte Carlo methods
     start_date: "2017"
 - course:
     degree: BMath.
