@@ -21,10 +21,10 @@ academia:
     other_info: Supervised by Dr. Christiane Lemieux; Estimating state space parameters using quasi-Monte Carlo methods
     start_date: "2017"
 - course:
-    degree: BMath.
+    degree: BMath
     end_date: "2017"
     institution: University of Waterloo
-    major: Statistics & Actuarial Science with Finance Option
+    major: Statistics & Actuarial Science with Finance Option, Computer Science Minor, Co-op
     start_date: "2013"
 affiliations:
 - affiliation:
