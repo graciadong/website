@@ -8,7 +8,7 @@ authors:
 - Laura L. E. Cowen
 date: "2023-10-18"
 
-publication: "Submitted to Journal of the Royal Statistical Society: Series A"
+publication: "Undergoing peer review"
 
 links:
     pdf: 
