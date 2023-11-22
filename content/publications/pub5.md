@@ -7,7 +7,7 @@ authors:
 - Christiane Lemieux
 date: "2023-08-10"
 
-publication: "Submitted to Methodology and Computing in Applied Probability"
+publication: "Undergoing peer review"
 
 links:
     pdf: 
