@@ -1,0 +1,15 @@
+baseURL: https://graciadong.github.io
+publishDir: "../graciadong.github.io"
+googleAnalytics: UA/G-123123-12
+languageCode: en-us
+enableEmoji: yes
+theme: avicenna
+title: Gracia Dong
+paginate: 10
+markup:
+  tableOfContents:
+    endLevel: 3
+    ordered: no
+    startLevel: 1
+params:
+  name: Gracia Yunruo Dong
