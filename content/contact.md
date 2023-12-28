@@ -9,8 +9,5 @@ title: Contact
 
 {{< contact-box >}}
 
-You can physically find me at the Li Ka Shing Knowledge Institute, but it is much easier to reach me via email. 
-
-My email address is gracia.dong@utoronto.ca.
-
+You can physically find me at the Li Ka Shing Knowledge Institute, but it is much easier to reach me via email at gracia.dong@utoronto.ca. 
 <!--- {{< social >}} -->
