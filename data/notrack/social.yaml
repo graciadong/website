@@ -425,7 +425,7 @@ vine:
 # 054: Google Scholar
 googlescholar:
   weight: 54
-  template: https://scholar.google.com/citations?%v
+  template: https://scholar.google.ca/citations?user=v
   title: Google Scholar
   icon:
     simpleicons: googlescholar

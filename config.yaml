@@ -9,19 +9,18 @@ paginate: 4
 params:
   author: Gracia Yunruo Dong
   blogLatestHeading: My writing
-  favicon: hugo_grotius.png
+  favicon: GYD_icon.png
   mainSections: blog
   nBlogLatest: 4
-  showBlogLatest: yes
+  showBlogLatest: no
   showTaxonomyLinks: no
   siteHeading: Gracia Yunruo Dong, PhD
   social:
-    email: example@example.com
-    github: example
-    keybase: example
-    linkedin: example
-    mastodon: example
-    rss: rss won't use the value you give it so you can put anything here
+    email: gracia.dong@utoronto.ca
+    github: graciadong
+    linkedin: graciadong
+    googlescholar: zWbZMVsAAAAJ
+    orcid: 0000-0003-0026-4009
 taxonomies:
   categories: categories
   month: month

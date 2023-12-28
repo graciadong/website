@@ -10,11 +10,16 @@ title: ""
 
 {{<image float="right" width="11em" frame="true" caption="Me in 2022!" src="img/gyd_me.jpg" >}}
 
-This website is under construction.
+<!--- This website is under construction. -->
 
-**About me**: I am currently a CANSSI postdoctoral fellow working with [Patrick Brown](https://www.statistics.utoronto.ca/people/directories/all-faculty/patrick-brown) from the University of Toronto and [Laura Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) from the University of Victoria. I am physically based at Centre for Global Health Research at St. Micheal's Hospital. In my spare time, ~~I am an avid enjoyer of video games and cosplay~~ I am primarily responsible for keeping a [small human](https://www.instagram.com/markusdong22/) alive.
-For a more comprehensive list of my work, see the [Research]({{< ref "research.md" >}}) and [Teaching]({{< ref "teaching.md" >}}) tabs.
+<!--- **About me**: -->
+
+I am currently a CANSSI postdoctoral fellow working with [Dr. Patrick Brown](https://www.statistics.utoronto.ca/people/directories/all-faculty/patrick-brown) from the University of Toronto and [Dr. Laura Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) from the University of Victoria. I am physically based at Centre for Global Health Research at St. Micheal's Hospital. In my spare time, ~~I am an avid enjoyer of video games, musical theater, and cosplay~~ I am primarily responsible for keeping a [small human](https://www.instagram.com/markusdong22/) alive. My PhD was obtained from the University of Waterloo, under the supervision of [Dr. Christiane Lemieux](https://uwaterloo.ca/scholar/clemieux), where I worked on constructions and applications of quasi-random point sets with negative dependence. 
+
+Please see the [Research]({{< ref "research.md" >}}) and [Teaching]({{< ref "teaching.md" >}}) tabs for a list of my work.
+My statements on teaching and EDI can be found in my [Blog]({{< ref "blog.md" >}}).
 
 If you want to get in touch, you can find my social media links and email address under the [Contact]({{< ref "contact.md" >}}) tab.
 
-A full CV (updated December 2023) can be found [here](https://graciadong.github.io/CV_GYD.pdf), although most of the information is avaliable on this website. 
+A full CV (updated December 2023) can be found [here](https://graciadong.github.io/CV_GYD.pdf).
+

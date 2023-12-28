@@ -1,0 +1,20 @@
+---
+Categories:
+- Teaching
+Tags:
+- EDI
+- personal-statement
+- statistics
+- job-search
+date: "2023-09-01"
+title: Statement of Equity, Diversity and Inclusivity (EDI)
+---
+This document outlines my experience, approach, and goals for fostering an inclusive teaching and learning environment.
+
+As a racialized, disabled woman studying mathematics, my undergraduate and graduate experiences have greatly benefited from supportive professors and mentors. This was especially important during the final year of my PhD and during my current postdoc position while balancing my work with being a new mother. My mentors allowed me to work flexible hours and kept me updated with virtual networking opportunities and conferences, which contributed greatly to me succeeding in my roles. An environment of diversity, equity, and inclusion is paramount to achieve academic excellence, and I aim to provide an environment where students and trainees of all backgrounds with a variety of needs can succeed. 
+
+In my teaching and mentoring roles, I aim to increase self-confidence and lower anxiety, especially for those students without a math or statistics background, who may already struggle with math anxiety and low motivation. This is especially true for those students who belong to marginalized groups, who may have been discouraged from pursuing mathematics in the past. I make conscious efforts to ensure that every student feels comfortable participating in classes and tutorials by bringing in a variety of examples and discussion topics and focusing on what the students may experience in the future, such as potential problems they may encounter at work. Announcements for key dates will be made in class as well as posted online and through email, to ensure that students are not penalized if they cannot attend lectures. When teaching online, I ensure that my students’ accessibility needs are met by providing lecture recordings and transcripts, as well as various options to complete assessments. 
+
+In my role as an Evaluation Consultant at the Student Success Office at the University of Waterloo, I worked on programming for first year and incoming undergraduate students. When evaluating the usage and effects of such programs, it’s imperative to identify if all groups are equally benefited, including international students and first-generation students. If the new student transition programming disproportionately benefits or is completed by specific groups, the implementation must be updated for future years to ensure that the programming is inclusive and that its benefits are equitable. 
+
+Looking towards my future role in academia, I intend to continue working towards creating a supportive space for students, staff, and researchers. I will mentor and inspire students from a variety of backgrounds and provide opportunities for and encourage students to network. I will continue to learn more about the diversity and equity issues that students face to provide the best university learning environment possible. When recruiting undergraduate and graduate research students as part of my research objectives, I will use nongendered, inclusive, and unbiased language in job postings and ensure postings are widely circulated to prospective students in a variety of courses and institutions. I will perform CV gap analysis during the selection process to ensure that career leaves are fairly considered. Assessment processes will be developed before screening CVs or interviews, so there are no unconscious biases that will influence my selection criteria arising from viewing applicant profiles, for an equitable selection process. When scholarship and funding opportunities arise, I will inform all my students in a mailing list as well as in person, either in class or during research meetings. This will ensure that students are not hand-picked to apply for scholarships and those who are less privileged, such as first-generation students, are made aware of the resources available to them. 

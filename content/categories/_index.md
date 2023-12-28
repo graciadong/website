@@ -6,4 +6,3 @@ menu:
     parent: Blog
 title: Categories
 ---
-
