@@ -8,7 +8,7 @@ menu:
 title: ""
 ---
 
-{{<image float="right" width="11em" frame="true" caption="Me!" src="img/gyd_me.jpg" >}}
+{{<image float="right" width="11em" frame="true" caption="Me in 2022!" src="img/gyd_me.jpg" >}}
 
 This website is under construction.
 
