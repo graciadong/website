@@ -10,7 +10,10 @@ title: Research
 
 {{< container >}}
 
-    
+    {{% resume-section title="" %}}
+Please see my [Google Scholar](https://scholar.google.ca/citations?user=zWbZMVsAAAAJ) for the most updated list of papers.
+    {{% /resume-section %}}
+      
     {{< resume-section title="Peer-reviewed publications" >}}
     
         {{< resume-entry what="Overdispersed case-crossover design with application in air pollution epidemiology"
@@ -146,7 +149,6 @@ Applied Health Data Analytics, Vancouver Island Health Authority (Island Health)
 Centre for Global Health Research, Toronto, ON, Canada
 
 Institute on Aging & Lifelong Health, University of Victoria, Victoria, BC, Canada
-Quasi Monte-Carlo Methods
 
   {{% /resume-section %}}
     

@@ -425,7 +425,7 @@ vine:
 # 054: Google Scholar
 googlescholar:
   weight: 54
-  template: https://scholar.google.ca/citations?user=v
+  prefix: https://scholar.google.ca/citations?user=
   title: Google Scholar
   icon:
     simpleicons: googlescholar
@@ -512,7 +512,7 @@ rss:
 # 065: ORCID
 orcid:
   weight: 65
-  url: https://orcid.org/
+  prefix: https://orcid.org/
   title: ORCID
   icon:
     class: fas fa-orcid fa-fw
