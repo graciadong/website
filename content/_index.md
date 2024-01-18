@@ -14,7 +14,7 @@ title: ""
 
 <!--- **About me**: -->
 
-**Update**: I will begin a new role as an Assistant Professor, Teaching Stream, Human Biology and Statistics, at the University of Toronto in July 2024.  
+**Update**: I will begin a new role as Assistant Professor, Teaching Stream, Human Biology and Statistics, at the University of Toronto in July 2024.  
 
 I am currently a [CANSSI postdoctoral fellow](https://canssi.ca/story/cdpf-gracia-dong/) working with [Dr. Patrick Brown](https://www.statistics.utoronto.ca/people/directories/all-faculty/patrick-brown) from the University of Toronto and [Dr. Laura Cowen](https://www.uvic.ca/science/math-statistics/people/home/faculty/cowen_laura.php) from the University of Victoria.
 My research is done in collaboration with [Island Health](https://www.islandhealth.ca/), and I am physically based at [Centre for Global Health Research](https://www.cghr.org/). 
