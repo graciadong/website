@@ -11,7 +11,7 @@ title: Research
 {{< container >}}
 
     {{% resume-section title="" %}}
-Please see my [Google Scholar](https://scholar.google.ca/citations?user=zWbZMVsAAAAJ) for the most updated list of papers.
+Please see my [Google Scholar](https://scholar.google.ca/citations?user=zWbZMVsAAAAJ) for the most updated list of papers. Student authors are indicated by ‘*’.
     {{% /resume-section %}}
       
     {{< resume-section title="Peer-reviewed publications" >}}
@@ -22,7 +22,7 @@ Please see my [Google Scholar](https://scholar.google.ca/citations?user=zWbZMVsA
         {{< /resume-entry >}}
     
             {{< resume-entry what="Disparities in access to services, as evident in patients journeys: Illustrating a nuanced approach in assessing healthcare equity using patterns of service utilization across the full continuum of care"
-                        where="Bambi, J.; Dong, G.; Santoso, Y.; Moselle, K.; Dugas, S.; Olobatuyi, K.; Rudnick, A.; Chang, E.; Kuo, A. (2024+)"
+                        where="Bambi, J.; Dong, G.; Santoso, Y.; Moselle, K.; Dugas, S.*; Olobatuyi, K.; Rudnick, A.; Chang, E.; Kuo, A. (2024+)"
                         when="Undergoing Peer Review" >}}
         {{< /resume-entry >}}
         
