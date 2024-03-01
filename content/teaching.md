@@ -16,7 +16,7 @@ Below is a list of all the classes (and other things) I have instructed.
     
     {{< resume-section title="University of Toronto" >}}
         {{< resume-entry what="The Practice of Statistics I"
-                        where="STA220H"
+                        where="STA220"
                         when="Fall 2023" >}}
 
         {{< /resume-entry >}}
