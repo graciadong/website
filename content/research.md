@@ -16,6 +16,17 @@ Please see my [Google Scholar](https://scholar.google.ca/citations?user=zWbZMVsA
       
     {{< resume-section title="Peer-reviewed publications" >}}
     
+                {{< resume-entry what="Use of patterns of service utilization and hierarchical survival analysis in planning and providing care for overdose patients and predicting the time-to-second overdose"
+                        where="Bambi, J.; Olobatuyi, K.; Santoso, Y.; Sadri, H.; Moselle, K.; Rudnick, A.; Dong, G.; Chang, E.; Kuo, A. (2024+)"
+                        when="Undergoing Peer Review" >}}
+        {{< /resume-entry >}}
+    
+            {{< resume-entry what="Disparities in access to services, as evident in patients journeys: Illustrating a nuanced approach in assessing healthcare equity using patterns of service utilization across the full continuum of care"
+                        where="Bambi, J.; Dong, G.; Santoso, Y.; Moselle, K.; Dugas, S.; Olobatuyi, K.; Rudnick, A.; Chang, E.; Kuo, A. (2024+)"
+                        when="Undergoing Peer Review" >}}
+        {{< /resume-entry >}}
+        
+    
         {{< resume-entry what="Overdispersed case-crossover design with application in air pollution epidemiology"
                         where="Perreault, S.; Dong, G.; Stringer, A.; Brown, P. (2024+)"
                         when="Undergoing Peer Review" >}}
@@ -55,11 +66,7 @@ Please see my [Google Scholar](https://scholar.google.ca/citations?user=zWbZMVsA
 
     {{< resume-section title="Working papers, projects, and pre-prints" >}}
     
-        {{< resume-entry what="Disparities in access to services as evident in patient journeys: An approach using Island Health longitudinal encounter data"
-                        where="Bambi, J.; Dong, G.; Santoso, Y.; Howie, J.; Olobatuyi, K.; Robertson, S.; Rudnick, A.; Sadri, H.; Moselle, K. (2024+)"
-                        when="Undergoing ethics and privacy review" >}}
-        {{< /resume-entry >}}
-        
+
         {{< resume-entry what="Robustness of population size estimation in a two-sample study using mark-recapture techniques"
                         where="Dong, G.; McNichol, J.; Cowen, L. (2024+)"
                         when="In Progress" >}}
