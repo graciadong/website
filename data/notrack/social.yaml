@@ -4,7 +4,7 @@ github:
   prefix: https://github.com/
   title: GitHub
   icon:
-    class: fab fa-github-alt fa-fw
+    class: fab fa-github fa-fw
 
 # 002: LinkedIn
 linkedin:
@@ -428,7 +428,7 @@ googlescholar:
   prefix: https://scholar.google.ca/citations?user=
   title: Google Scholar
   icon:
-    simpleicons: googlescholar
+    class: fab fa-google fa-fw
 
 # 055: ResearchGate
 researchgate:
@@ -515,4 +515,4 @@ orcid:
   prefix: https://orcid.org/
   title: ORCID
   icon:
-    class: fas fa-orcid fa-fw
+    class: fab fa-orcid fa-fw
