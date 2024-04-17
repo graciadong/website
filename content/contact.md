@@ -7,7 +7,7 @@ menu:
 title: Contact
 ---
 
-{{< contact-box >}}
+<!-- {{< contact-box >}}  -->
 
 You can physically find me at the Li Ka Shing Knowledge Institute, but it is much easier to reach me via email at gracia.dong@utoronto.ca.
 
@@ -16,4 +16,4 @@ For reference requests:
 * If you are not a University of Toronto student, please email me. 
 <!-- * Please note that I only write references for individuals with whom I have directly worked. -->
 
-<!--- {{< social >}} -->
+{{< social >}}
