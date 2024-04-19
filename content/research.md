@@ -26,12 +26,12 @@ Please email me for copies of presentation slides or working papers.
         {{< /resume-entry >}}
         
                 {{< resume-entry what="Use of patterns of service utilization and hierarchical survival analysis in planning and providing care for overdose patients and predicting the time-to-second overdose"
-                        where="Bambi, J.; Olobatuyi, K.; Santoso, Y.; Sadri, H.; Moselle, K.; Rudnick, A.; Dong, G.; Chang, E.; Kuo, A. (2024+)"
+                        where="Bambi, J.; Olobatuyi, K.; Santoso, Y.; Sadri, H.; Moselle, K.; Rudnick, A.; Dong, G.; Chang, E.; Kuo, A. (2024)"
                         when="Undergoing Peer Review" >}}
         {{< /resume-entry >}}
         
 {{< resume-entry what="Disparities in access to services, as evident in patients journeys: Illustrating a nuanced approach in assessing healthcare equity using patterns of service utilization across the full continuum of care"
-                        where="Bambi, J.; Dong, G.; Santoso, Y.; Moselle, K.; Dugas, S.*; Olobatuyi, K.; Rudnick, A.; Chang, E.; Kuo, A. (2024+)"
+                        where="Bambi, J.; Dong, G.; Santoso, Y.; Moselle, K.; Dugas, S.*; Olobatuyi, K.; Rudnick, A.; Chang, E.; Kuo, A. (2024)"
                         when="Undergoing Peer Review" >}}
         {{< /resume-entry >}}
 
@@ -46,7 +46,7 @@ Please email me for copies of presentation slides or working papers.
         {{< /resume-entry >}}       
         
         {{< resume-entry what="A methodological approach to extracting patterns of service utilization from a cross-continuum high dimensional healthcare dataset to support care delivery optimization for patients with complex problems"
-                        where="Bambi, J.; Santoso, Y.;  Sadri, H.; Moselle, K.; Rudnick, A.;  Robertson, S.;  Chang, E.; Kuo, A.;  Howie, J.; Dong, G.; Olobatuyi, K.; Hajiabadi, M.; Richardson, A.; (2024+)" 
+                        where="Bambi, J.; Santoso, Y.;  Sadri, H.; Moselle, K.; Rudnick, A.;  Robertson, S.;  Chang, E.; Kuo, A.;  Howie, J.; Dong, G.; Olobatuyi, K.; Hajiabadi, M.; Richardson, A.; (2024)" 
                         when="BioMedInformatics" >}}
         {{< /resume-entry >}}
 
