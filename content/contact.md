@@ -9,7 +9,7 @@ title: Contact
 
 <!-- {{< contact-box >}} -->
 
-You can physically find me at the Li Ka Shing Knowledge Institute, but it is much easier to reach me via email at gracia.dong@utoronto.ca.
+You can physically find me in the Stewart Building (149 College St, Toronto), but it is much easier to reach me via email at gracia.dong@utoronto.ca.
 
 For reference requests: 
 * If you are a University of Toronto student, please email me and fill out this [form](https://forms.office.com/r/EfCp9PrDiU). You will need to log in to access the form.

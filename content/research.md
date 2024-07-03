@@ -11,139 +11,94 @@ title: Research
 {{< container >}}
 
     {{% resume-section title="" %}}
-Please see my [Google Scholar](https://scholar.google.ca/citations?user=zWbZMVsAAAAJ) for the most updated list of papers. 
+Please see [Google Scholar](https://scholar.google.ca/citations?user=zWbZMVsAAAAJ) for the most updated list of papers.
 
-Student authors are indicated by ‘*’.
+Student authors are indicated by ‘*’. 
 
 Please email me for copies of presentation slides or working papers.
+
     {{% /resume-section %}}
-      
-    {{< resume-section title="Peer-reviewed publications" >}}
     
-        {{< resume-entry what="Overdispersed case-crossover design with application in air pollution epidemiology"
-                        where="Perreault, S.; Dong, G.; Stringer, A.; Brown, P. (2024+)"
+     
+{{< resume-section title="Peer-reviewed publications" >}}
+    
+{{< resume-entry what="Model selection and model robustness for population size estimation in a two-sample study using capture-recapture techniques"
+                        where="Dong, G., McNichol, J., Cowen, L. (2024+)"
                         when="Undergoing Peer Review" >}}
-        {{< /resume-entry >}}
+{{< /resume-entry >}}
         
-                {{< resume-entry what="Use of patterns of service utilization and hierarchical survival analysis in planning and providing care for overdose patients and predicting the time-to-second overdose"
-                        where="Bambi, J.; Olobatuyi, K.; Santoso, Y.; Sadri, H.; Moselle, K.; Rudnick, A.; Dong, G.; Chang, E.; Kuo, A. (2024)"
+    
+{{< resume-entry what="Overdispersed case-crossover design with application in air pollution epidemiology"
+                        where="Perreault, S., Dong, G., Stringer, A., Brown, P. (2024+)"
                         when="Undergoing Peer Review" >}}
-        {{< /resume-entry >}}
+{{< /resume-entry >}}
+        
+{{< resume-entry what="Use of patterns of service utilization and hierarchical survival analysis in planning and providing care for overdose patients and predicting the time-to-second overdose"
+                        where="Bambi, J., Olobatuyi, K., Santoso, Y., Sadri, H., Moselle, K., Rudnick, A., Dong, G., Chang, E., Kuo, A. (2024)"
+                        when="Undergoing Peer Review" >}}
+{{< /resume-entry >}}
         
 {{< resume-entry what="Disparities in access to services, as evident in patients journeys: Illustrating a nuanced approach in assessing healthcare equity using patterns of service utilization across the full continuum of care"
-                        where="Bambi, J.; Dong, G.; Santoso, Y.; Moselle, K.; Dugas, S.*; Olobatuyi, K.; Rudnick, A.; Chang, E.; Kuo, A. (2024)"
+                        where="Bambi, J., Dong, G., Santoso, Y., Moselle, K., Dugas, S.*, Olobatuyi, K., Rudnick, A., Chang, E., Kuo, A. (2024)"
                         when="Undergoing Peer Review" >}}
         {{< /resume-entry >}}
 
-        {{< resume-entry what="Estimating the population size of persons contending with homelessness using electronic health records"
-                        where="Dong, G.; Moselle, K.; Robertson, S.; Brown, P; Cowen, L.; (2024)"
+{{< resume-entry what="Estimating the population size of persons contending with homelessness using electronic health records"
+                        where="Dong, G., Moselle, K., Robertson, S., Brown, P, Cowen, L., (2024)"
                         when="Journal of the Royal Statistical Society: Series A" >}}
-        {{< /resume-entry >}}
+{{< /resume-entry >}}
         
-        {{< resume-entry what="Randomized quasi-Monte Carlo methods on triangles: Extensible lattices and sequences"
-                        where="Dong, G.; Hintz, E.; Hofert, M.; Lemieux, C. (2024)"
+{{< resume-entry what="Randomized quasi-Monte Carlo methods on triangles: Extensible lattices and sequences"
+                        where="Dong, G., Hintz, E., Hofert, M., Lemieux, C. (2024)"
                         when="Methodology and Computing in Applied Probability" >}}
-        {{< /resume-entry >}}       
+{{< /resume-entry >}}       
         
-        {{< resume-entry what="A methodological approach to extracting patterns of service utilization from a cross-continuum high dimensional healthcare dataset to support care delivery optimization for patients with complex problems"
-                        where="Bambi, J.; Santoso, Y.;  Sadri, H.; Moselle, K.; Rudnick, A.;  Robertson, S.;  Chang, E.; Kuo, A.;  Howie, J.; Dong, G.; Olobatuyi, K.; Hajiabadi, M.; Richardson, A.; (2024)" 
+{{< resume-entry what="A methodological approach to extracting patterns of service utilization from a cross-continuum high dimensional healthcare dataset to support care delivery optimization for patients with complex problems"
+                        where="Bambi, J., Santoso, Y.,  Sadri, H., Moselle, K., Rudnick, A.,  Robertson, S.,  Chang, E., Kuo, A.,  Howie, J., Dong, G., Olobatuyi, K., Hajiabadi, M., Richardson, A., (2024)" 
                         when="BioMedInformatics" >}}
-        {{< /resume-entry >}}
+{{< /resume-entry >}}
 
-        {{< resume-entry what="Adapting the Motivated Strategies for Learning Questionnaire for a writing and communication program"
-                        where="Mugon, J.; Dong, G.; Kim, N.; Jobidon, E. (2023)"
+{{< resume-entry what="Adapting the Motivated Strategies for Learning Questionnaire for a writing and communication program"
+                        where="Mugon, J., Dong, G., Kim, N., Jobidon, E. (2023)"
                         when="Collected Essays in Teaching and Learning" >}}
-        {{< /resume-entry >}} 
+{{< /resume-entry >}} 
         
-        {{< resume-entry what="Dependence properties of scrambled Halton sequences"
+{{< resume-entry what="Dependence properties of scrambled Halton sequences"
                         where="Dong, G. & Lemieux,  C. (2022)"
                         when="Mathematics and Computers in Simulation" >}}
-        {{< /resume-entry >}}  
+{{< /resume-entry >}}  
         
-        {{< resume-entry what="On the dependence structure and quality of scrambled (t, m, s)-nets"
+{{< resume-entry what="On the dependence structure and quality of scrambled (t, m, s)-nets"
                         where="Wiart, J., Lemieux, C., & Dong, G. (2021)"
                         when="Monte Carlo Methods and Applications" >}}
-        {{< /resume-entry >}}  
+{{< /resume-entry >}}  
         
-    {{% /resume-section %}}
+{{% /resume-section %}}
 
-    {{< resume-section title="Working papers, projects, and pre-prints" >}}
+{{< resume-section title="Working papers, projects, and pre-prints" >}}
     
 
-        {{< resume-entry what="Robustness of population size estimation in a two-sample study using mark-recapture techniques"
-                        where="Dong, G.; McNichol, J.; Cowen, L. (2024+)"
+{{< resume-entry what="Extensions to generalized linear mixed cluster-weighted models"
+                        where="Olobatuyi, K., Dong, G., Parker, M. & Ariyo, O. (2024+)"
                         when="In Progress" >}}
-        {{< /resume-entry >}}
-        
-        {{< resume-entry what="A negative dependence framework to assess different forms of scrambling"
-                        where="Faure, H.; Dong, G.; Lemieux, C. (2022)"
-                        when="arXiv preprint" >}}
-        {{< /resume-entry >}}
-        
-    {{< /resume-section >}}
-    
-<!---
-    
-{{< resume-section title="Research Presentations, Invited" >}}
+{{< /resume-entry >}}
 
-        {{< resume-entry what="Using Capture-Recapture methods with data extracts from healthcare records to estimate population sizes of vulnerable populations: an application to Vancouver Island"
-                        where="Dong, G. (2023)"
-                        when="UQAM Statistics Seminar Series, Virtual" >}}
-        {{< /resume-entry >}}
+{{< resume-entry what="Integrated population modelling using point-in-time counts and electronic health records to estimate the population size of persons contending with homelessness in Greater Victoria"
+                        where="Dong, G., Berringer, H., Brown, P. & Cowen, L. (2024+)"
+                        when="In Progress" >}}
+{{< /resume-entry >}}
+
+
+{{< resume-entry what="A negative dependence framework to assess different forms of scrambling"
+                        where="Faure, H., Dong, G., Lemieux, C. (2022)"
+                        when="arXiv preprint" >}}
+{{< /resume-entry >}}
         
-        {{< resume-entry what="Using Capture-Recapture with data extracts from healthcare records to estimate population sizes of vulnerable populations – applications and data quality issues"
-                        where="Dong, G. (2023)"
-                        when="CANSSI Showcase, Virtual" >}}
-        {{< /resume-entry >}}
-        
-        {{< resume-entry what="Analyzing Indian mortality with temperature attribution using case-crossover models"
-                        where="Dong, G.; Brown; P. (2023)"
-                        when="Statistical Society of Canada Annual Meeting, Ottawa, ON, Canada" >}}
-        {{< /resume-entry >}}
-        
-        {{< resume-entry what="Randomized Quasi-Monte Carlo Methods on triangles: Extensible lattices and sequences"
-                        where="Dong, G.; Hintz, E.; Hofert, M.; Lemieux, C. (2022)"
-                        when="CORS/INFORMS International Conference, Vancouver, BC, Canada" >}}
-        {{< /resume-entry >}}
-        
-      {{< /resume-section >}}
+{{< /resume-section >}}
     
-{{< resume-section title="Research Presentations, Contributed" >}}
-        {{< resume-entry what="Estimating the abundance of homeless individuals on Vancouver Island using electronic health data"
-                        where="Dong, G.; Cowen, L; Moselle, K. (2023)"
-                        when="INFORMS Healthcare Conference, Toronto, ON, Canada" >}}
-        {{< /resume-entry >}}
-        
-        {{< resume-entry what="A randomized implementation of the triangular van der Corput sequence"
-                        where="Dong, G.; Lemieux, C. (2022)"
-                        when="University of Toronto, Department of Statistical Sciences Postdoc Day, Toronto, ON, Canada" >}}
-        {{< /resume-entry >}}
-        
-        {{< resume-entry what="Adapting the Motivated Strategies for Learning Questionnaire (MSLQ) for first-year Faculty of Health students"
-                        where="Mugon, J.; Dong, G.; Kim, N.; Jobidon, E. (2022)"
-                        when="Society for Teaching and Learning in Higher Education (STLHE) Annual Conference, Virtual" >}}
-        {{< /resume-entry >}}
-        
-        
-        {{< resume-entry what="Adapting the Motivated Strategies for Learning Questionnaire to help students take control of their learning"
-                        where="Mugon, J., Dong, G., Kim, N.H., Jobidon, E., Barichello, M., & Prier, A. (2021)"
-                        when="University of Waterloo 12th Annual Teaching and Learning Conference & 2021 STLHE/SAPES Unconference, Virtual" >}}
-        {{< /resume-entry >}}
-        
-        {{< resume-entry what="Halton sequences and negative dependence"
-                        where="Dong, G. (2021)"
-                        when="University of Waterloo Student Seminar Series, Waterloo, ON, Canada" >}}
-        {{< /resume-entry >}}
-        
-        {{< resume-entry what="Variance estimation of quasi-Monte Carlo integration without replication"
-                        where="Dong, G. (2019)"
-                        when="Waterloo Student Conference in Statistics, Actuarial Science and Finance, Waterloo, ON, Canada" >}}
-        {{< /resume-entry >}}
-        
-    {{< /resume-section >}}   
--->
+
     
-    {{% resume-section title="Research Interests" %}}
+{{% resume-section title="Research Interests" %}}
     
 Statistics Education
 
@@ -159,26 +114,9 @@ Healthcare Equity
         {{% resume-section title="Affiliations" %}}
 Applied Health Data Analytics, Vancouver Island Health Authority (Island Health), Victoria, BC, Canada
 
-Centre for Global Health Research, Toronto, ON, Canada
-
-Institute on Aging & Lifelong Health, University of Victoria, Victoria, BC, Canada
-
   {{% /resume-section %}}
     
-<!---
-    {{< resume-section title="Languages" >}}
-        {{< resume-category title="Dutch" >}}
-        {{% resume-entry what="Native Language" %}}
-* Hollandish accent
-        {{% /resume-entry %}}
-        {{< resume-category title="Latin" >}}
-        {{% resume-entry what="Private Lessons" when="1588-1598" %}}
-        {{% /resume-entry %}}
-        {{< resume-category title="French" >}}
-        {{% resume-entry what="French Classes" when="1621–1623" where="Ecole de Paris" %}}
-        {{% /resume-entry %}}
-    {{< /resume-section >}}
--->
+
 
 {{< /container >}}
                             
