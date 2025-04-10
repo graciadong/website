@@ -10,7 +10,14 @@ title: Students
 
 {{< container >}}
 
-    
+     {{< resume-section title="Mentees at Island Health" >}}
+        
+        {{% resume-entry what="Alexandra Mossman" %}}
+* Current position: PhD Candidate in Biostatistics, University of Waterloo
+* Project title: Optimizing Service Utilization for Opioid Overdose Patients with Dynamic Weighted Ordinary Least Squares
+        {{% /resume-entry %}}
+   
+    {{< /resume-section >}}   
 
     {{< resume-section title="Undergraduate Students" >}}
         

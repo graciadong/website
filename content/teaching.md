@@ -15,37 +15,46 @@ Below is a list of all the classes (and other things) I have instructed.
     {{% /resume-section %}}
     
     {{< resume-section title="University of Toronto" >}}
-        {{< resume-entry what="The Practice of Statistics I"
-                        where="STA220"
-                        when="Fall 2023" >}}
-
+                    {{< resume-entry what="Epidemiology of Health & Disease"
+                        where="HMB342H1" >}}
         {{< /resume-entry >}}
+        
+                {{< resume-entry what="International Research Projects in Human Biology"
+                        where="HMB394/HMB396Y0" >}}
+        {{< /resume-entry >}}
+        
+                        {{< resume-entry what="Research Projects in Human Biology"
+                        where="HMB496/HMB499Y1">}}
+        {{< /resume-entry >}}
+        
+                {{< resume-entry what="The Practice of Statistics I"
+                        where="STA220H1" >}}
+        {{< /resume-entry >}}
+        
+                        {{< resume-entry what="Probability, Statistics and Data Analysis I"
+                        where="STA237H1">}}
+        {{< /resume-entry >}}
+    
+            {{< resume-entry what="Statistics and Scientific Inquiry in the Life Sciences"
+                        where="STA288H1" >}}
+        {{< /resume-entry >}}
+        
     {{< /resume-section >}}
     
     {{< resume-section title="University of Victoria" >}}
         {{< resume-entry what="Seminar and Independent Project, Section Topic: Simulation Experiments"
-                        where="STAT498"
-                        when="Spring 2024" >}}
+                        where="STAT498" >}}
         {{< /resume-entry >}}
         {{< resume-entry what="Directed Studies in Mathematics, Section Topic: Inequalities in Healthcare"
-                        where="MATH490"
-                        when="Summer 2023" >}}
-        {{< /resume-entry >}}
-        {{< resume-entry what="Guest Lecture: An introduction to Pseudo- and Quasi- random number generation"
-                        where="STAT464"
-                        when="Fall 2022" >}}
+                        where="MATH490" >}}
         {{< /resume-entry >}}
     {{< /resume-section >}}
     
     {{< resume-section title="University of Waterloo" >}}
         {{< resume-entry what="Analytic Methods 2 for Business"
-                        where="AFM113"
-                        when="Spring 2021" >}}
+                        where="AFM113" >}}
         {{< /resume-entry >}}
-        {{< resume-entry what="TA Training Workshop"
-                        where="Department of Statistics and Actuarial Science"
-                        when="Fall 2018" >}}
-        {{< /resume-entry >}}
+
     {{< /resume-section >}}
 
 

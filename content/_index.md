@@ -26,5 +26,5 @@ Please see the [Research]({{< ref "research.md" >}}) and [Teaching]({{< ref "tea
 
 <!--- My statements on teaching and EDI can be found in my [Blog]({{< ref "blog.md" >}}). If you want to get in touch, you can find my social media links and email address under the [Contact]({{< ref "contact.md" >}}) tab. -->
 
-A full CV (updated July 2024) can be found [here](https://graciadong.github.io/CV_GYD.pdf).
+A full CV can be found [here](https://www.overleaf.com/read/vpyktthkvrsr#b8cc30). I try to keep it up to date.
 
