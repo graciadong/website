@@ -11,7 +11,7 @@ title: Teaching
 
 {{< container >}}
     {{% resume-section title="" %}}
-Below is a list of all the classes (and other things) I have instructed.
+Below is a list of classes I have instructed.
     {{% /resume-section %}}
     
     {{< resume-section title="University of Toronto" >}}
@@ -42,11 +42,11 @@ Below is a list of all the classes (and other things) I have instructed.
     {{< /resume-section >}}
     
     {{< resume-section title="University of Victoria" >}}
+          {{< resume-entry what="Directed Studies in Mathematics, Section Topic: Inequalities in Healthcare"
+                        where="MATH490" >}}
+        {{< /resume-entry >}}
         {{< resume-entry what="Seminar and Independent Project, Section Topic: Simulation Experiments"
                         where="STAT498" >}}
-        {{< /resume-entry >}}
-        {{< resume-entry what="Directed Studies in Mathematics, Section Topic: Inequalities in Healthcare"
-                        where="MATH490" >}}
         {{< /resume-entry >}}
     {{< /resume-section >}}
     
